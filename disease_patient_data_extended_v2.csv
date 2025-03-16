@@ -1,0 +1,2501 @@
+﻿patient_id,age,gender,disease_duration,disease,treatment_type,previous_treatments,alternative_treatment,response
+1,63,F,18,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,1
+2,76,M,14,Parkinson's,Steroid,5,No,1
+3,53,M,20,Alzheimer's,DMT,1,No,0
+4,39,M,15,Parkinson's,Immunotherapy,2,No,0
+5,67,M,4,Multiple Sclerosis,DMT,2,No,1
+6,32,F,13,Parkinson's,Deep Brain Stimulation,4,No,0
+7,45,M,8,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,0
+8,63,F,18,Multiple Sclerosis,DMT,4,No,0
+9,82,M,12,Parkinson's,Deep Brain Stimulation,1,Yes,0
+10,43,M,14,Multiple Sclerosis,Corticosteroids,1,Yes,0
+11,47,F,2,Multiple Sclerosis,Plasmapheresis,4,No,1
+12,35,M,18,Alzheimer's,Biologic,3,Yes,0
+13,35,F,2,Alzheimer's,Corticosteroids,4,No,1
+14,48,F,11,Alzheimer's,Deep Brain Stimulation,1,Yes,1
+15,77,M,9,Alzheimer's,Physical Therapy,3,No,1
+16,60,F,12,Multiple Sclerosis,Steroid,1,Yes,0
+17,64,F,17,Parkinson's,Biologic,3,No,0
+18,48,F,15,Multiple Sclerosis,Physical Therapy,3,Yes,0
+19,27,F,17,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+20,46,F,18,Multiple Sclerosis,Levodopa,4,Yes,1
+21,77,F,6,Parkinson's,Immunotherapy,4,Yes,1
+22,26,F,17,Alzheimer's,Biologic,3,No,1
+23,48,F,18,Multiple Sclerosis,Corticosteroids,3,Yes,0
+24,68,M,8,Multiple Sclerosis,Steroid,1,Yes,1
+25,54,M,9,Alzheimer's,Physical Therapy,2,Yes,1
+26,62,F,6,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,1
+27,26,M,5,Parkinson's,Biologic,5,Yes,0
+28,84,F,12,Multiple Sclerosis,Levodopa,1,No,1
+29,45,F,11,Multiple Sclerosis,Deep Brain Stimulation,1,No,1
+30,57,M,1,Alzheimer's,Physical Therapy,0,Yes,0
+31,36,F,11,Multiple Sclerosis,Steroid,4,No,1
+32,82,F,19,Multiple Sclerosis,DMT,1,Yes,0
+33,46,F,9,Parkinson's,Levodopa,0,No,1
+34,68,F,2,Alzheimer's,Deep Brain Stimulation,5,Yes,0
+35,49,M,12,Alzheimer's,Levodopa,5,Yes,0
+36,73,F,4,Parkinson's,Anticholinesterase Inhibitors,4,Yes,0
+37,51,F,4,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+38,83,F,18,Alzheimer's,Biologic,0,No,1
+39,66,M,15,Alzheimer's,DMT,3,No,0
+40,52,F,19,Multiple Sclerosis,DMT,5,No,0
+41,84,M,13,Multiple Sclerosis,Immunotherapy,5,Yes,0
+42,40,M,19,Alzheimer's,Levodopa,2,No,0
+43,39,F,17,Multiple Sclerosis,Corticosteroids,2,No,0
+44,71,F,6,Alzheimer's,DMT,2,Yes,0
+45,75,M,16,Multiple Sclerosis,DMT,2,Yes,0
+46,68,F,12,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,0
+47,79,M,19,Parkinson's,Plasmapheresis,2,No,0
+48,76,M,5,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,0
+49,81,F,17,Parkinson's,Anticholinesterase Inhibitors,1,Yes,0
+50,27,F,1,Multiple Sclerosis,Plasmapheresis,4,No,0
+51,61,M,10,Alzheimer's,Levodopa,1,Yes,1
+52,75,M,15,Alzheimer's,Deep Brain Stimulation,1,No,0
+53,31,M,11,Multiple Sclerosis,Steroid,2,Yes,1
+54,45,M,13,Multiple Sclerosis,Corticosteroids,1,No,1
+55,33,F,5,Alzheimer's,DMT,3,No,1
+56,63,F,1,Multiple Sclerosis,Immunotherapy,2,No,0
+57,42,F,12,Parkinson's,Corticosteroids,0,Yes,1
+58,28,F,11,Parkinson's,Deep Brain Stimulation,2,Yes,0
+59,49,F,17,Parkinson's,Plasmapheresis,1,Yes,1
+60,84,M,4,Parkinson's,Corticosteroids,3,No,0
+61,38,F,15,Parkinson's,DMT,2,Yes,0
+62,74,F,9,Multiple Sclerosis,Corticosteroids,3,No,1
+63,82,F,20,Multiple Sclerosis,Steroid,0,Yes,1
+64,33,F,19,Parkinson's,Plasmapheresis,5,Yes,0
+65,50,F,19,Multiple Sclerosis,Corticosteroids,0,No,1
+66,77,M,12,Multiple Sclerosis,DMT,5,No,0
+67,26,M,5,Parkinson's,DMT,4,Yes,0
+68,44,M,10,Multiple Sclerosis,Corticosteroids,5,Yes,0
+69,52,F,17,Multiple Sclerosis,Levodopa,4,No,1
+70,71,M,5,Multiple Sclerosis,Immunotherapy,2,No,0
+71,84,M,16,Parkinson's,Physical Therapy,4,Yes,0
+72,31,F,7,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,0
+73,68,F,9,Alzheimer's,Plasmapheresis,4,Yes,0
+74,32,F,3,Alzheimer's,Physical Therapy,3,Yes,1
+75,71,M,15,Parkinson's,Deep Brain Stimulation,5,Yes,1
+76,59,M,16,Alzheimer's,Deep Brain Stimulation,5,No,1
+77,38,F,18,Parkinson's,DMT,5,Yes,1
+78,41,F,14,Alzheimer's,Deep Brain Stimulation,4,Yes,0
+79,60,M,3,Alzheimer's,Levodopa,5,No,0
+80,74,M,12,Alzheimer's,Immunotherapy,4,No,0
+81,64,F,9,Parkinson's,Deep Brain Stimulation,4,No,0
+82,28,F,7,Parkinson's,Steroid,1,Yes,0
+83,26,M,9,Multiple Sclerosis,Immunotherapy,1,No,0
+84,30,F,13,Parkinson's,Levodopa,4,No,1
+85,78,M,18,Alzheimer's,Physical Therapy,3,Yes,0
+86,66,M,5,Alzheimer's,Immunotherapy,2,Yes,0
+87,28,M,13,Parkinson's,Immunotherapy,0,Yes,0
+88,78,M,4,Parkinson's,Physical Therapy,1,Yes,1
+89,53,F,2,Parkinson's,Levodopa,4,No,0
+90,42,F,16,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,0
+91,50,M,9,Alzheimer's,DMT,1,No,0
+92,68,M,9,Multiple Sclerosis,Plasmapheresis,2,Yes,1
+93,58,M,6,Multiple Sclerosis,Physical Therapy,3,Yes,0
+94,34,M,11,Alzheimer's,Physical Therapy,4,No,0
+95,60,M,1,Alzheimer's,Physical Therapy,2,No,1
+96,38,F,4,Parkinson's,Physical Therapy,1,No,0
+97,55,F,13,Parkinson's,Plasmapheresis,4,Yes,1
+98,72,F,13,Multiple Sclerosis,Plasmapheresis,0,Yes,0
+99,39,F,13,Parkinson's,Deep Brain Stimulation,5,No,1
+100,32,M,2,Parkinson's,Corticosteroids,3,No,0
+101,38,M,9,Alzheimer's,Corticosteroids,1,Yes,0
+102,47,M,8,Alzheimer's,Biologic,3,No,1
+103,84,M,7,Parkinson's,Physical Therapy,4,No,0
+104,81,M,4,Alzheimer's,Physical Therapy,5,Yes,0
+105,64,F,18,Parkinson's,Immunotherapy,2,No,1
+106,45,M,3,Alzheimer's,Corticosteroids,3,Yes,0
+107,40,F,6,Alzheimer's,Deep Brain Stimulation,0,Yes,1
+108,69,F,12,Alzheimer's,DMT,1,Yes,0
+109,42,F,12,Alzheimer's,Biologic,0,No,1
+110,71,F,8,Parkinson's,Biologic,3,No,0
+111,77,M,1,Multiple Sclerosis,Deep Brain Stimulation,5,No,0
+112,48,F,4,Alzheimer's,DMT,2,No,1
+113,50,F,11,Parkinson's,Immunotherapy,2,Yes,0
+114,49,F,3,Parkinson's,Plasmapheresis,0,Yes,1
+115,84,M,13,Alzheimer's,Anticholinesterase Inhibitors,4,No,1
+116,84,M,17,Multiple Sclerosis,Corticosteroids,4,No,1
+117,84,M,10,Alzheimer's,Physical Therapy,5,No,0
+118,69,F,12,Parkinson's,Deep Brain Stimulation,2,No,0
+119,65,F,15,Multiple Sclerosis,Corticosteroids,0,Yes,0
+120,53,M,10,Parkinson's,Physical Therapy,0,No,1
+121,39,F,14,Alzheimer's,Anticholinesterase Inhibitors,0,Yes,1
+122,69,M,13,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,1
+123,25,M,5,Parkinson's,Plasmapheresis,5,No,0
+124,49,F,6,Parkinson's,Levodopa,4,No,1
+125,31,F,2,Parkinson's,Anticholinesterase Inhibitors,4,Yes,0
+126,33,F,17,Alzheimer's,Corticosteroids,3,No,0
+127,48,F,4,Multiple Sclerosis,Steroid,1,Yes,0
+128,25,M,14,Alzheimer's,Steroid,3,Yes,0
+129,68,M,10,Alzheimer's,Physical Therapy,5,No,0
+130,32,M,3,Alzheimer's,Physical Therapy,0,Yes,0
+131,48,M,3,Multiple Sclerosis,Levodopa,3,Yes,0
+132,35,M,15,Alzheimer's,Steroid,0,Yes,0
+133,75,F,6,Alzheimer's,Physical Therapy,5,No,1
+134,41,M,17,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,0
+135,32,M,12,Alzheimer's,Physical Therapy,2,Yes,0
+136,59,M,20,Parkinson's,Biologic,0,No,1
+137,59,F,11,Alzheimer's,Levodopa,4,No,1
+138,57,F,4,Parkinson's,Deep Brain Stimulation,3,Yes,1
+139,83,F,6,Alzheimer's,DMT,5,Yes,1
+140,29,F,1,Multiple Sclerosis,Immunotherapy,0,Yes,0
+141,66,M,20,Parkinson's,DMT,1,Yes,1
+142,63,M,16,Parkinson's,DMT,2,No,1
+143,82,F,15,Parkinson's,Plasmapheresis,1,No,1
+144,65,F,17,Parkinson's,Deep Brain Stimulation,5,Yes,1
+145,52,M,8,Multiple Sclerosis,Physical Therapy,1,No,0
+146,31,M,12,Alzheimer's,Plasmapheresis,1,Yes,1
+147,33,F,10,Parkinson's,DMT,2,No,1
+148,32,F,15,Multiple Sclerosis,Biologic,2,No,1
+149,36,F,9,Parkinson's,Immunotherapy,2,Yes,1
+150,58,F,2,Alzheimer's,DMT,2,Yes,0
+151,57,M,5,Parkinson's,Steroid,1,Yes,1
+152,72,M,6,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,1
+153,79,M,7,Alzheimer's,Deep Brain Stimulation,4,No,1
+154,47,F,1,Multiple Sclerosis,Deep Brain Stimulation,2,No,0
+155,48,F,7,Alzheimer's,Levodopa,3,Yes,1
+156,61,M,20,Alzheimer's,Levodopa,0,No,1
+157,59,M,12,Alzheimer's,Anticholinesterase Inhibitors,5,No,0
+158,68,M,16,Parkinson's,Corticosteroids,3,Yes,1
+159,64,M,16,Multiple Sclerosis,Immunotherapy,5,Yes,0
+160,46,F,11,Multiple Sclerosis,Plasmapheresis,3,No,0
+161,51,M,4,Multiple Sclerosis,Physical Therapy,3,Yes,1
+162,59,M,13,Alzheimer's,DMT,4,Yes,1
+163,25,M,7,Parkinson's,Corticosteroids,0,No,0
+164,59,M,4,Alzheimer's,Physical Therapy,3,No,0
+165,61,M,15,Multiple Sclerosis,Plasmapheresis,2,Yes,1
+166,71,M,19,Parkinson's,Corticosteroids,5,No,0
+167,38,M,9,Parkinson's,Physical Therapy,4,Yes,0
+168,27,F,11,Parkinson's,Biologic,5,Yes,1
+169,25,F,8,Multiple Sclerosis,Levodopa,2,No,0
+170,29,F,1,Parkinson's,Plasmapheresis,2,No,0
+171,50,F,8,Parkinson's,Immunotherapy,3,Yes,0
+172,79,M,13,Alzheimer's,Steroid,2,Yes,0
+173,38,F,4,Alzheimer's,Biologic,0,Yes,0
+174,63,F,8,Parkinson's,Levodopa,2,No,0
+175,51,M,3,Parkinson's,Deep Brain Stimulation,3,Yes,1
+176,33,M,9,Alzheimer's,Levodopa,5,No,0
+177,39,F,2,Alzheimer's,Corticosteroids,2,Yes,1
+178,39,F,2,Alzheimer's,Anticholinesterase Inhibitors,4,No,1
+179,50,M,13,Multiple Sclerosis,Biologic,4,Yes,1
+180,66,F,15,Multiple Sclerosis,Deep Brain Stimulation,4,No,1
+181,84,M,12,Alzheimer's,Corticosteroids,5,Yes,1
+182,37,M,4,Parkinson's,Plasmapheresis,1,Yes,1
+183,75,M,8,Alzheimer's,Immunotherapy,4,Yes,1
+184,56,M,9,Multiple Sclerosis,Levodopa,4,Yes,1
+185,63,F,5,Parkinson's,Plasmapheresis,1,No,0
+186,73,M,20,Multiple Sclerosis,Deep Brain Stimulation,5,No,1
+187,76,M,18,Parkinson's,Corticosteroids,4,No,1
+188,56,F,11,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,1
+189,28,M,15,Parkinson's,Levodopa,5,No,0
+190,54,F,9,Parkinson's,Immunotherapy,4,Yes,1
+191,61,F,17,Parkinson's,Anticholinesterase Inhibitors,4,No,0
+192,47,F,12,Parkinson's,Physical Therapy,1,No,1
+193,63,M,7,Multiple Sclerosis,Corticosteroids,3,No,1
+194,69,F,10,Multiple Sclerosis,Plasmapheresis,5,No,0
+195,39,F,10,Parkinson's,Levodopa,2,Yes,1
+196,67,M,13,Parkinson's,Levodopa,0,Yes,0
+197,53,F,19,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,0
+198,60,F,11,Parkinson's,Immunotherapy,2,Yes,1
+199,37,F,13,Parkinson's,Steroid,3,No,1
+200,56,F,8,Parkinson's,Physical Therapy,2,No,0
+201,31,F,8,Alzheimer's,Anticholinesterase Inhibitors,2,Yes,0
+202,83,M,4,Parkinson's,Biologic,3,Yes,1
+203,75,F,15,Alzheimer's,Biologic,1,No,1
+204,46,F,11,Parkinson's,Levodopa,3,No,1
+205,52,M,11,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,0
+206,26,M,1,Alzheimer's,DMT,2,Yes,1
+207,66,M,17,Alzheimer's,Levodopa,0,Yes,0
+208,69,F,15,Parkinson's,Biologic,2,Yes,1
+209,81,M,20,Parkinson's,Biologic,4,No,0
+210,77,F,6,Alzheimer's,Physical Therapy,3,No,0
+211,30,F,15,Multiple Sclerosis,Plasmapheresis,5,No,1
+212,52,M,9,Multiple Sclerosis,DMT,3,Yes,0
+213,52,M,14,Parkinson's,Levodopa,1,No,0
+214,68,F,18,Multiple Sclerosis,Physical Therapy,5,No,0
+215,68,M,17,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,0
+216,44,F,18,Parkinson's,Physical Therapy,1,Yes,0
+217,54,M,5,Multiple Sclerosis,Levodopa,3,Yes,1
+218,35,M,20,Parkinson's,Corticosteroids,2,Yes,1
+219,82,M,20,Alzheimer's,Steroid,2,Yes,0
+220,79,F,9,Parkinson's,Levodopa,4,Yes,1
+221,52,M,11,Alzheimer's,Immunotherapy,4,No,0
+222,49,F,1,Alzheimer's,Biologic,0,No,0
+223,63,F,18,Multiple Sclerosis,DMT,4,No,1
+224,57,F,6,Multiple Sclerosis,DMT,5,No,0
+225,25,F,2,Multiple Sclerosis,Plasmapheresis,2,No,0
+226,81,M,15,Parkinson's,Steroid,4,No,0
+227,51,F,14,Multiple Sclerosis,Immunotherapy,0,Yes,1
+228,81,F,5,Alzheimer's,Biologic,3,Yes,1
+229,76,M,6,Multiple Sclerosis,DMT,5,Yes,0
+230,37,F,6,Multiple Sclerosis,Immunotherapy,4,No,0
+231,65,M,18,Parkinson's,Physical Therapy,2,No,0
+232,27,F,14,Parkinson's,Plasmapheresis,3,Yes,0
+233,63,M,10,Alzheimer's,Levodopa,2,Yes,0
+234,30,F,14,Parkinson's,Levodopa,3,Yes,1
+235,32,M,13,Multiple Sclerosis,Corticosteroids,5,Yes,1
+236,51,F,3,Parkinson's,Biologic,2,Yes,1
+237,33,F,6,Alzheimer's,Immunotherapy,4,No,1
+238,61,M,8,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+239,57,M,12,Alzheimer's,DMT,0,No,0
+240,75,M,13,Parkinson's,Deep Brain Stimulation,3,Yes,1
+241,66,M,11,Parkinson's,Deep Brain Stimulation,0,No,1
+242,68,F,12,Alzheimer's,Levodopa,1,Yes,0
+243,48,F,1,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,1
+244,39,M,17,Parkinson's,Deep Brain Stimulation,3,Yes,0
+245,83,F,16,Parkinson's,Steroid,5,Yes,0
+246,78,M,11,Multiple Sclerosis,Steroid,0,No,0
+247,56,M,13,Parkinson's,Biologic,5,No,1
+248,56,F,18,Alzheimer's,Anticholinesterase Inhibitors,5,No,1
+249,48,F,11,Parkinson's,Steroid,5,No,1
+250,65,F,12,Parkinson's,Steroid,0,No,1
+251,76,F,6,Multiple Sclerosis,Levodopa,1,Yes,1
+252,73,F,9,Alzheimer's,Deep Brain Stimulation,0,No,0
+253,73,F,16,Multiple Sclerosis,Biologic,2,No,1
+254,82,F,4,Parkinson's,Immunotherapy,4,Yes,0
+255,76,M,3,Parkinson's,Physical Therapy,0,No,0
+256,36,M,16,Multiple Sclerosis,DMT,0,Yes,0
+257,63,M,12,Multiple Sclerosis,DMT,1,No,1
+258,26,M,11,Multiple Sclerosis,Plasmapheresis,2,No,1
+259,27,M,5,Alzheimer's,Physical Therapy,0,Yes,1
+260,73,F,18,Parkinson's,Physical Therapy,4,No,1
+261,61,M,19,Multiple Sclerosis,DMT,4,No,1
+262,73,M,6,Parkinson's,DMT,0,No,1
+263,80,M,18,Alzheimer's,Immunotherapy,5,No,1
+264,41,M,6,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,1
+265,83,M,4,Alzheimer's,Anticholinesterase Inhibitors,2,Yes,0
+266,73,M,12,Alzheimer's,Immunotherapy,4,No,1
+267,26,M,19,Parkinson's,Deep Brain Stimulation,5,No,0
+268,26,F,2,Alzheimer's,Physical Therapy,4,Yes,0
+269,52,F,17,Alzheimer's,Corticosteroids,2,Yes,0
+270,78,M,11,Multiple Sclerosis,Physical Therapy,2,No,0
+271,47,F,11,Alzheimer's,Plasmapheresis,5,Yes,1
+272,61,F,16,Multiple Sclerosis,DMT,0,Yes,1
+273,56,F,2,Alzheimer's,Physical Therapy,3,Yes,0
+274,57,F,2,Alzheimer's,DMT,1,Yes,0
+275,25,M,8,Multiple Sclerosis,Physical Therapy,3,No,0
+276,43,F,13,Alzheimer's,Plasmapheresis,3,Yes,1
+277,26,F,10,Parkinson's,Deep Brain Stimulation,4,No,0
+278,77,F,8,Parkinson's,Corticosteroids,2,No,0
+279,68,M,4,Alzheimer's,Steroid,4,Yes,1
+280,50,M,15,Parkinson's,Immunotherapy,5,No,0
+281,56,M,1,Multiple Sclerosis,Immunotherapy,1,No,1
+282,30,M,11,Alzheimer's,Corticosteroids,5,Yes,1
+283,56,M,7,Alzheimer's,Physical Therapy,0,Yes,0
+284,79,M,17,Multiple Sclerosis,Steroid,1,Yes,0
+285,28,M,20,Multiple Sclerosis,Plasmapheresis,4,No,0
+286,79,F,18,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,1
+287,35,F,12,Alzheimer's,Physical Therapy,5,No,1
+288,80,F,9,Multiple Sclerosis,Deep Brain Stimulation,4,No,1
+289,83,M,5,Multiple Sclerosis,DMT,4,Yes,0
+290,41,M,10,Parkinson's,Biologic,3,No,0
+291,62,M,4,Parkinson's,Physical Therapy,0,Yes,0
+292,48,M,5,Alzheimer's,Biologic,3,Yes,0
+293,29,M,10,Parkinson's,Physical Therapy,4,Yes,0
+294,76,F,11,Parkinson's,Corticosteroids,2,Yes,0
+295,58,F,10,Multiple Sclerosis,Biologic,3,No,1
+296,30,M,8,Multiple Sclerosis,Physical Therapy,4,Yes,1
+297,46,M,2,Parkinson's,Immunotherapy,4,No,1
+298,35,M,8,Parkinson's,Biologic,0,Yes,0
+299,72,M,16,Parkinson's,Physical Therapy,5,Yes,1
+300,40,F,5,Alzheimer's,Anticholinesterase Inhibitors,1,Yes,1
+301,57,M,3,Alzheimer's,DMT,3,No,1
+302,33,M,12,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,0
+303,84,M,13,Parkinson's,Steroid,3,Yes,0
+304,83,M,13,Parkinson's,Physical Therapy,4,Yes,1
+305,30,F,10,Alzheimer's,Levodopa,0,Yes,0
+306,40,M,4,Alzheimer's,Deep Brain Stimulation,4,No,0
+307,53,M,9,Parkinson's,Anticholinesterase Inhibitors,4,No,0
+308,27,F,2,Multiple Sclerosis,Biologic,5,Yes,0
+309,44,F,19,Alzheimer's,Corticosteroids,2,Yes,1
+310,84,F,1,Parkinson's,Deep Brain Stimulation,0,No,0
+311,83,M,7,Parkinson's,Levodopa,3,No,1
+312,60,M,17,Multiple Sclerosis,Plasmapheresis,1,No,1
+313,43,F,3,Parkinson's,Physical Therapy,3,Yes,0
+314,50,F,20,Parkinson's,Corticosteroids,4,No,0
+315,27,F,20,Alzheimer's,Physical Therapy,0,Yes,0
+316,43,F,3,Alzheimer's,Steroid,0,No,1
+317,44,F,3,Multiple Sclerosis,Levodopa,0,No,1
+318,56,F,17,Multiple Sclerosis,Physical Therapy,2,Yes,1
+319,31,M,7,Parkinson's,Biologic,3,No,1
+320,76,M,14,Alzheimer's,Steroid,2,Yes,1
+321,65,M,17,Multiple Sclerosis,Immunotherapy,5,No,1
+322,57,F,18,Multiple Sclerosis,Plasmapheresis,1,Yes,1
+323,64,F,13,Multiple Sclerosis,Levodopa,5,No,0
+324,63,F,20,Parkinson's,DMT,4,No,1
+325,42,F,20,Alzheimer's,Corticosteroids,2,Yes,1
+326,64,F,18,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,1
+327,25,F,4,Alzheimer's,Physical Therapy,5,Yes,1
+328,35,M,1,Multiple Sclerosis,Corticosteroids,4,Yes,0
+329,52,M,18,Multiple Sclerosis,Corticosteroids,0,No,1
+330,81,F,1,Alzheimer's,DMT,4,No,1
+331,49,M,13,Alzheimer's,DMT,3,No,0
+332,74,F,20,Alzheimer's,Steroid,5,No,0
+333,47,M,20,Parkinson's,Levodopa,4,No,1
+334,55,F,10,Multiple Sclerosis,Biologic,0,No,1
+335,54,F,11,Parkinson's,Plasmapheresis,4,Yes,1
+336,66,M,9,Alzheimer's,DMT,2,No,1
+337,59,M,9,Multiple Sclerosis,DMT,1,No,1
+338,31,F,5,Parkinson's,Anticholinesterase Inhibitors,2,Yes,1
+339,84,F,1,Multiple Sclerosis,Immunotherapy,1,No,0
+340,40,M,17,Parkinson's,DMT,4,No,0
+341,50,M,2,Alzheimer's,Immunotherapy,3,No,1
+342,72,F,13,Parkinson's,Steroid,4,Yes,1
+343,81,M,9,Multiple Sclerosis,Biologic,0,Yes,1
+344,76,F,4,Multiple Sclerosis,Corticosteroids,4,No,0
+345,84,F,5,Multiple Sclerosis,DMT,1,Yes,1
+346,73,F,11,Multiple Sclerosis,Physical Therapy,2,No,0
+347,26,F,19,Alzheimer's,Immunotherapy,3,No,0
+348,25,M,3,Parkinson's,Anticholinesterase Inhibitors,4,No,1
+349,72,M,12,Alzheimer's,Plasmapheresis,4,Yes,0
+350,36,M,19,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+351,29,M,19,Alzheimer's,DMT,3,No,0
+352,61,M,13,Multiple Sclerosis,Levodopa,5,No,1
+353,56,M,7,Multiple Sclerosis,Corticosteroids,4,No,1
+354,83,M,15,Multiple Sclerosis,Biologic,4,No,0
+355,79,F,7,Parkinson's,Physical Therapy,5,Yes,0
+356,33,M,8,Multiple Sclerosis,Levodopa,1,No,0
+357,65,M,5,Parkinson's,Anticholinesterase Inhibitors,1,Yes,1
+358,59,F,14,Multiple Sclerosis,Immunotherapy,0,No,0
+359,43,M,4,Multiple Sclerosis,Immunotherapy,2,Yes,0
+360,72,M,10,Alzheimer's,Levodopa,3,No,1
+361,40,F,20,Alzheimer's,Immunotherapy,4,No,1
+362,27,M,15,Alzheimer's,Anticholinesterase Inhibitors,4,Yes,0
+363,44,M,18,Parkinson's,Levodopa,0,Yes,0
+364,48,M,20,Parkinson's,Anticholinesterase Inhibitors,4,No,0
+365,78,F,13,Multiple Sclerosis,Physical Therapy,2,Yes,1
+366,80,M,8,Parkinson's,Corticosteroids,0,Yes,1
+367,57,M,9,Multiple Sclerosis,Plasmapheresis,2,No,0
+368,48,F,16,Parkinson's,Physical Therapy,0,No,1
+369,76,M,19,Parkinson's,Physical Therapy,4,No,0
+370,35,F,16,Parkinson's,Immunotherapy,0,No,0
+371,73,F,7,Alzheimer's,DMT,1,No,1
+372,32,M,14,Parkinson's,Deep Brain Stimulation,3,Yes,0
+373,60,F,14,Alzheimer's,Immunotherapy,4,No,0
+374,62,F,4,Alzheimer's,DMT,5,Yes,1
+375,64,M,15,Parkinson's,Anticholinesterase Inhibitors,3,No,0
+376,44,F,3,Multiple Sclerosis,Deep Brain Stimulation,4,No,0
+377,59,F,5,Multiple Sclerosis,Immunotherapy,3,Yes,1
+378,72,M,1,Multiple Sclerosis,Deep Brain Stimulation,1,No,0
+379,49,M,3,Parkinson's,Deep Brain Stimulation,3,Yes,0
+380,59,M,15,Multiple Sclerosis,Steroid,0,Yes,1
+381,49,F,8,Alzheimer's,Corticosteroids,3,Yes,1
+382,53,M,4,Multiple Sclerosis,Steroid,4,No,1
+383,42,F,2,Parkinson's,DMT,5,No,0
+384,70,F,10,Multiple Sclerosis,Biologic,5,No,1
+385,42,F,4,Alzheimer's,Levodopa,2,No,0
+386,26,F,3,Parkinson's,Plasmapheresis,3,No,1
+387,78,F,2,Multiple Sclerosis,Biologic,5,No,0
+388,59,F,17,Parkinson's,Levodopa,3,Yes,0
+389,40,F,20,Parkinson's,DMT,5,No,1
+390,65,M,13,Parkinson's,DMT,3,No,0
+391,60,M,5,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+392,57,F,9,Parkinson's,Plasmapheresis,3,No,1
+393,28,F,6,Multiple Sclerosis,Corticosteroids,4,Yes,0
+394,57,M,5,Alzheimer's,Deep Brain Stimulation,4,Yes,0
+395,38,F,10,Multiple Sclerosis,Steroid,2,Yes,0
+396,45,M,8,Alzheimer's,Steroid,5,Yes,1
+397,72,M,7,Multiple Sclerosis,DMT,0,Yes,1
+398,44,M,7,Parkinson's,Steroid,4,No,1
+399,80,F,6,Multiple Sclerosis,DMT,5,Yes,1
+400,32,F,20,Parkinson's,Deep Brain Stimulation,1,Yes,1
+401,31,M,3,Alzheimer's,DMT,3,No,1
+402,27,M,19,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,1
+403,41,M,15,Parkinson's,Corticosteroids,3,Yes,1
+404,57,M,4,Alzheimer's,Physical Therapy,2,No,0
+405,72,M,12,Alzheimer's,Immunotherapy,4,No,0
+406,36,F,6,Multiple Sclerosis,Corticosteroids,0,Yes,0
+407,83,M,19,Alzheimer's,Corticosteroids,4,No,0
+408,75,F,4,Parkinson's,Biologic,3,Yes,1
+409,46,M,15,Alzheimer's,Plasmapheresis,0,Yes,0
+410,79,F,9,Alzheimer's,Plasmapheresis,4,No,0
+411,46,F,5,Parkinson's,Levodopa,0,Yes,0
+412,70,F,13,Alzheimer's,Immunotherapy,3,Yes,0
+413,54,F,18,Alzheimer's,Deep Brain Stimulation,2,No,0
+414,62,F,5,Alzheimer's,Physical Therapy,2,No,1
+415,62,F,16,Alzheimer's,Physical Therapy,4,No,1
+416,69,M,19,Parkinson's,Plasmapheresis,1,No,0
+417,75,F,14,Alzheimer's,Corticosteroids,3,Yes,0
+418,78,M,16,Parkinson's,Anticholinesterase Inhibitors,4,No,0
+419,32,F,15,Alzheimer's,Levodopa,4,No,0
+420,51,F,4,Alzheimer's,DMT,2,Yes,1
+421,51,M,7,Alzheimer's,Levodopa,0,Yes,0
+422,58,F,16,Alzheimer's,Biologic,3,Yes,1
+423,45,M,8,Parkinson's,Levodopa,0,Yes,0
+424,54,M,17,Parkinson's,Corticosteroids,5,No,1
+425,57,M,16,Parkinson's,Deep Brain Stimulation,5,No,1
+426,52,M,10,Multiple Sclerosis,Corticosteroids,3,Yes,1
+427,71,F,10,Alzheimer's,Plasmapheresis,1,Yes,0
+428,57,F,2,Alzheimer's,Deep Brain Stimulation,5,Yes,0
+429,29,M,9,Parkinson's,Steroid,2,Yes,1
+430,84,F,17,Multiple Sclerosis,Deep Brain Stimulation,1,No,0
+431,72,F,11,Alzheimer's,Levodopa,4,Yes,0
+432,43,M,10,Parkinson's,Levodopa,5,No,1
+433,28,F,17,Alzheimer's,Levodopa,2,Yes,0
+434,59,M,4,Alzheimer's,Steroid,4,No,1
+435,73,M,16,Parkinson's,Plasmapheresis,1,No,0
+436,41,F,20,Parkinson's,DMT,3,No,0
+437,68,F,15,Alzheimer's,Immunotherapy,4,No,1
+438,52,F,5,Alzheimer's,Plasmapheresis,0,Yes,1
+439,54,M,6,Parkinson's,Levodopa,3,No,1
+440,53,M,17,Alzheimer's,Plasmapheresis,3,Yes,1
+441,70,F,1,Alzheimer's,Biologic,1,No,0
+442,77,F,19,Parkinson's,Physical Therapy,1,No,0
+443,30,F,4,Alzheimer's,Physical Therapy,2,Yes,0
+444,59,F,17,Alzheimer's,Immunotherapy,2,Yes,1
+445,84,M,9,Multiple Sclerosis,Immunotherapy,0,No,0
+446,65,F,2,Parkinson's,DMT,3,No,0
+447,61,M,8,Multiple Sclerosis,Biologic,0,Yes,0
+448,48,M,15,Multiple Sclerosis,Corticosteroids,0,No,1
+449,53,F,7,Multiple Sclerosis,Plasmapheresis,1,Yes,1
+450,73,F,6,Alzheimer's,Deep Brain Stimulation,0,Yes,0
+451,70,F,1,Alzheimer's,Deep Brain Stimulation,0,Yes,0
+452,77,M,15,Multiple Sclerosis,Corticosteroids,4,No,1
+453,55,F,7,Multiple Sclerosis,Physical Therapy,2,No,1
+454,59,F,17,Multiple Sclerosis,Corticosteroids,2,Yes,1
+455,84,M,2,Alzheimer's,Plasmapheresis,3,Yes,1
+456,57,F,9,Multiple Sclerosis,Biologic,2,Yes,0
+457,76,M,9,Multiple Sclerosis,Levodopa,5,Yes,1
+458,45,F,13,Parkinson's,Steroid,3,No,0
+459,56,M,6,Parkinson's,Levodopa,4,Yes,1
+460,47,F,6,Alzheimer's,Steroid,2,No,0
+461,57,F,20,Parkinson's,Deep Brain Stimulation,4,Yes,0
+462,27,M,20,Parkinson's,Immunotherapy,2,No,1
+463,42,M,3,Parkinson's,Plasmapheresis,2,No,0
+464,49,F,17,Alzheimer's,Levodopa,4,No,0
+465,66,M,17,Parkinson's,Corticosteroids,0,No,0
+466,55,M,12,Alzheimer's,Biologic,0,No,1
+467,78,M,16,Multiple Sclerosis,Biologic,0,Yes,1
+468,82,M,15,Parkinson's,Physical Therapy,5,Yes,1
+469,27,F,13,Alzheimer's,Biologic,0,No,0
+470,64,F,1,Parkinson's,Biologic,2,Yes,0
+471,70,M,17,Multiple Sclerosis,Immunotherapy,1,Yes,0
+472,48,M,3,Alzheimer's,Corticosteroids,4,Yes,0
+473,74,M,15,Alzheimer's,Deep Brain Stimulation,1,Yes,1
+474,56,M,4,Alzheimer's,Biologic,5,Yes,0
+475,71,F,4,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,0
+476,46,F,18,Multiple Sclerosis,Immunotherapy,3,Yes,0
+477,47,M,17,Multiple Sclerosis,Biologic,0,No,1
+478,26,M,19,Alzheimer's,Plasmapheresis,5,Yes,0
+479,51,M,11,Multiple Sclerosis,Physical Therapy,2,Yes,1
+480,66,F,20,Parkinson's,Levodopa,0,Yes,1
+481,26,M,3,Multiple Sclerosis,Plasmapheresis,0,No,0
+482,50,F,8,Alzheimer's,Anticholinesterase Inhibitors,1,No,0
+483,41,M,14,Parkinson's,DMT,3,Yes,0
+484,64,F,1,Multiple Sclerosis,Biologic,0,No,0
+485,57,M,14,Parkinson's,Deep Brain Stimulation,4,No,1
+486,33,F,2,Parkinson's,DMT,4,Yes,1
+487,67,M,4,Alzheimer's,Steroid,0,No,1
+488,78,M,19,Parkinson's,Biologic,1,Yes,1
+489,72,M,6,Parkinson's,Anticholinesterase Inhibitors,1,No,1
+490,63,F,1,Alzheimer's,Immunotherapy,2,Yes,1
+491,53,M,17,Alzheimer's,Physical Therapy,5,No,1
+492,66,F,8,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,1
+493,79,F,19,Parkinson's,Deep Brain Stimulation,5,Yes,1
+494,50,M,1,Parkinson's,Immunotherapy,3,No,1
+495,59,M,5,Parkinson's,Levodopa,1,Yes,0
+496,74,M,16,Alzheimer's,Immunotherapy,2,Yes,0
+497,49,F,6,Multiple Sclerosis,Biologic,4,No,0
+498,48,M,8,Parkinson's,DMT,5,Yes,1
+499,37,F,13,Multiple Sclerosis,DMT,4,Yes,0
+500,84,F,16,Alzheimer's,Deep Brain Stimulation,4,No,1
+501,82,M,3,Parkinson's,Immunotherapy,0,Yes,1
+502,31,M,19,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,0
+503,81,M,12,Parkinson's,Deep Brain Stimulation,2,Yes,1
+504,60,M,16,Parkinson's,Physical Therapy,3,No,0
+505,69,M,11,Parkinson's,Deep Brain Stimulation,0,No,1
+506,44,M,10,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,1
+507,25,F,20,Alzheimer's,Levodopa,2,No,0
+508,32,F,4,Parkinson's,Plasmapheresis,1,Yes,0
+509,70,F,12,Alzheimer's,Biologic,3,Yes,0
+510,40,M,2,Alzheimer's,Levodopa,3,No,0
+511,38,F,19,Multiple Sclerosis,DMT,1,Yes,0
+512,36,F,5,Multiple Sclerosis,DMT,4,Yes,0
+513,75,F,8,Alzheimer's,Steroid,0,No,1
+514,47,F,7,Parkinson's,Steroid,3,Yes,1
+515,39,F,14,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,1
+516,52,M,3,Parkinson's,DMT,2,No,1
+517,58,M,18,Parkinson's,Plasmapheresis,5,Yes,0
+518,26,F,16,Parkinson's,Levodopa,1,Yes,1
+519,56,F,19,Alzheimer's,Physical Therapy,5,No,1
+520,47,F,19,Parkinson's,Plasmapheresis,4,Yes,0
+521,46,M,18,Alzheimer's,Steroid,0,Yes,1
+522,75,M,20,Alzheimer's,Immunotherapy,5,No,0
+523,49,F,16,Parkinson's,Plasmapheresis,4,Yes,0
+524,82,M,8,Parkinson's,Plasmapheresis,5,Yes,0
+525,46,M,1,Parkinson's,Plasmapheresis,2,No,1
+526,82,F,17,Parkinson's,Plasmapheresis,2,No,0
+527,82,M,12,Alzheimer's,Plasmapheresis,2,Yes,1
+528,46,M,11,Parkinson's,Steroid,2,Yes,1
+529,73,F,5,Parkinson's,DMT,1,No,1
+530,76,M,12,Alzheimer's,Deep Brain Stimulation,2,Yes,0
+531,66,M,17,Multiple Sclerosis,Plasmapheresis,2,Yes,0
+532,30,F,6,Multiple Sclerosis,Plasmapheresis,1,Yes,0
+533,39,M,1,Alzheimer's,Biologic,2,No,1
+534,78,M,5,Multiple Sclerosis,DMT,4,Yes,1
+535,67,F,14,Alzheimer's,Deep Brain Stimulation,4,Yes,0
+536,84,F,5,Parkinson's,Physical Therapy,3,No,1
+537,61,F,1,Parkinson's,Physical Therapy,4,No,0
+538,57,M,18,Multiple Sclerosis,Immunotherapy,0,No,0
+539,32,F,16,Parkinson's,Corticosteroids,0,Yes,1
+540,77,M,9,Multiple Sclerosis,Levodopa,0,Yes,1
+541,84,F,19,Multiple Sclerosis,Biologic,1,No,0
+542,68,M,5,Parkinson's,DMT,4,Yes,1
+543,68,F,2,Parkinson's,DMT,0,Yes,0
+544,29,F,15,Multiple Sclerosis,Corticosteroids,3,Yes,0
+545,63,F,7,Parkinson's,Immunotherapy,1,Yes,1
+546,28,F,4,Alzheimer's,Anticholinesterase Inhibitors,3,No,0
+547,30,M,1,Parkinson's,Steroid,4,No,1
+548,69,F,13,Parkinson's,Immunotherapy,2,Yes,0
+549,56,F,20,Alzheimer's,Deep Brain Stimulation,3,No,1
+550,76,M,7,Parkinson's,Immunotherapy,2,Yes,1
+551,54,F,15,Parkinson's,Corticosteroids,1,Yes,0
+552,71,M,14,Multiple Sclerosis,Corticosteroids,3,No,1
+553,59,F,19,Parkinson's,Levodopa,3,No,1
+554,79,F,20,Parkinson's,Biologic,5,Yes,0
+555,64,F,18,Alzheimer's,Plasmapheresis,1,Yes,1
+556,76,M,10,Multiple Sclerosis,Physical Therapy,1,Yes,0
+557,40,F,9,Multiple Sclerosis,Corticosteroids,0,Yes,1
+558,37,F,8,Multiple Sclerosis,Levodopa,4,No,0
+559,74,F,10,Parkinson's,Steroid,3,No,0
+560,84,M,17,Multiple Sclerosis,Physical Therapy,3,Yes,0
+561,66,M,2,Alzheimer's,Anticholinesterase Inhibitors,1,Yes,0
+562,54,F,6,Multiple Sclerosis,DMT,1,No,1
+563,43,M,5,Alzheimer's,Steroid,4,Yes,0
+564,41,F,9,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,1
+565,80,F,5,Multiple Sclerosis,Physical Therapy,2,Yes,0
+566,43,F,18,Alzheimer's,Steroid,2,No,1
+567,52,F,20,Multiple Sclerosis,Levodopa,5,Yes,0
+568,82,F,9,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,1
+569,79,F,17,Multiple Sclerosis,DMT,2,Yes,1
+570,50,F,17,Parkinson's,Plasmapheresis,4,No,0
+571,61,M,12,Alzheimer's,Levodopa,3,No,0
+572,50,M,7,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,0
+573,77,M,3,Alzheimer's,DMT,5,Yes,1
+574,47,M,10,Alzheimer's,Biologic,1,Yes,1
+575,33,M,2,Alzheimer's,Immunotherapy,2,Yes,1
+576,36,M,3,Multiple Sclerosis,Biologic,5,No,1
+577,77,M,16,Multiple Sclerosis,Corticosteroids,4,No,0
+578,25,F,2,Alzheimer's,Plasmapheresis,1,No,0
+579,82,F,10,Parkinson's,Deep Brain Stimulation,5,Yes,0
+580,82,F,6,Alzheimer's,Deep Brain Stimulation,2,Yes,0
+581,25,F,11,Parkinson's,Immunotherapy,3,No,1
+582,71,M,7,Alzheimer's,Anticholinesterase Inhibitors,1,Yes,1
+583,58,M,15,Alzheimer's,Immunotherapy,1,No,0
+584,56,F,6,Alzheimer's,Corticosteroids,3,No,1
+585,78,F,20,Multiple Sclerosis,Biologic,1,No,0
+586,72,M,9,Parkinson's,Deep Brain Stimulation,2,No,1
+587,49,F,20,Parkinson's,Biologic,1,Yes,1
+588,64,F,12,Alzheimer's,DMT,2,No,1
+589,69,F,19,Multiple Sclerosis,Plasmapheresis,3,Yes,1
+590,77,F,20,Multiple Sclerosis,Steroid,0,No,1
+591,25,M,3,Parkinson's,Corticosteroids,3,No,1
+592,40,F,15,Multiple Sclerosis,Steroid,2,No,0
+593,63,F,2,Parkinson's,Corticosteroids,4,No,1
+594,29,M,2,Parkinson's,Physical Therapy,3,Yes,0
+595,46,M,3,Parkinson's,Plasmapheresis,4,Yes,0
+596,53,F,6,Multiple Sclerosis,DMT,4,Yes,0
+597,79,M,15,Parkinson's,Plasmapheresis,2,Yes,0
+598,27,F,10,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+599,36,F,9,Alzheimer's,Corticosteroids,0,Yes,0
+600,50,M,1,Parkinson's,Steroid,5,Yes,1
+601,40,F,16,Parkinson's,Corticosteroids,1,No,1
+602,75,F,6,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,1
+603,61,F,9,Alzheimer's,Corticosteroids,2,Yes,0
+604,46,F,4,Multiple Sclerosis,Plasmapheresis,3,Yes,0
+605,81,M,2,Parkinson's,Levodopa,5,Yes,0
+606,53,M,4,Multiple Sclerosis,Corticosteroids,5,No,1
+607,38,F,1,Multiple Sclerosis,Physical Therapy,4,No,1
+608,52,M,19,Alzheimer's,Physical Therapy,1,Yes,1
+609,29,F,10,Multiple Sclerosis,Deep Brain Stimulation,0,No,0
+610,71,F,15,Parkinson's,Physical Therapy,3,Yes,0
+611,73,F,19,Alzheimer's,Corticosteroids,1,Yes,0
+612,54,F,16,Parkinson's,Corticosteroids,0,Yes,1
+613,70,F,4,Parkinson's,Levodopa,3,No,0
+614,76,M,2,Alzheimer's,Physical Therapy,1,No,0
+615,29,F,13,Parkinson's,Biologic,2,No,0
+616,36,M,1,Alzheimer's,Corticosteroids,3,No,0
+617,40,M,17,Parkinson's,DMT,1,No,1
+618,50,F,13,Alzheimer's,DMT,5,No,1
+619,50,F,4,Multiple Sclerosis,Steroid,0,Yes,0
+620,72,F,7,Parkinson's,Levodopa,1,No,0
+621,45,F,17,Alzheimer's,Anticholinesterase Inhibitors,2,Yes,1
+622,63,F,9,Parkinson's,Biologic,3,Yes,1
+623,60,M,4,Parkinson's,Corticosteroids,3,No,0
+624,57,F,19,Parkinson's,Plasmapheresis,3,Yes,1
+625,54,F,1,Alzheimer's,Immunotherapy,2,Yes,1
+626,61,M,10,Multiple Sclerosis,Immunotherapy,0,Yes,0
+627,47,M,4,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,1
+628,82,F,9,Multiple Sclerosis,Deep Brain Stimulation,0,No,1
+629,34,M,13,Alzheimer's,Plasmapheresis,1,Yes,1
+630,78,F,14,Multiple Sclerosis,Immunotherapy,5,No,1
+631,29,M,10,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,0
+632,60,M,6,Parkinson's,Immunotherapy,0,No,1
+633,58,F,16,Parkinson's,Levodopa,0,Yes,1
+634,76,M,6,Multiple Sclerosis,Steroid,5,Yes,0
+635,55,M,17,Alzheimer's,Deep Brain Stimulation,3,No,1
+636,34,M,10,Parkinson's,Levodopa,4,No,0
+637,82,M,18,Alzheimer's,Plasmapheresis,4,No,0
+638,43,M,18,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+639,82,M,3,Parkinson's,Biologic,5,No,1
+640,56,F,20,Alzheimer's,Plasmapheresis,5,Yes,1
+641,25,F,15,Parkinson's,Plasmapheresis,2,Yes,1
+642,80,M,15,Parkinson's,Physical Therapy,4,Yes,1
+643,29,F,4,Parkinson's,Biologic,1,No,0
+644,69,F,9,Alzheimer's,DMT,3,No,1
+645,28,F,19,Parkinson's,Physical Therapy,3,Yes,0
+646,40,M,17,Alzheimer's,Anticholinesterase Inhibitors,1,Yes,1
+647,48,F,11,Parkinson's,DMT,1,Yes,0
+648,40,M,9,Parkinson's,Immunotherapy,4,Yes,1
+649,79,F,10,Multiple Sclerosis,Immunotherapy,2,No,1
+650,26,M,18,Multiple Sclerosis,Plasmapheresis,1,Yes,1
+651,73,M,20,Multiple Sclerosis,Physical Therapy,2,No,1
+652,52,F,13,Alzheimer's,Corticosteroids,0,Yes,1
+653,56,F,8,Alzheimer's,Biologic,3,No,0
+654,51,M,7,Parkinson's,DMT,4,No,1
+655,44,F,17,Parkinson's,Biologic,3,No,1
+656,48,F,15,Parkinson's,Physical Therapy,4,No,1
+657,36,F,20,Parkinson's,Plasmapheresis,0,Yes,0
+658,74,M,15,Alzheimer's,Levodopa,3,Yes,1
+659,59,M,1,Parkinson's,Immunotherapy,0,Yes,0
+660,84,F,14,Parkinson's,DMT,4,No,1
+661,57,F,5,Multiple Sclerosis,DMT,1,Yes,0
+662,57,F,11,Parkinson's,Anticholinesterase Inhibitors,3,Yes,1
+663,75,M,16,Parkinson's,DMT,0,Yes,1
+664,67,M,2,Parkinson's,Physical Therapy,5,No,0
+665,61,F,8,Alzheimer's,DMT,3,No,1
+666,36,F,11,Multiple Sclerosis,DMT,3,No,0
+667,27,F,18,Parkinson's,Biologic,3,Yes,1
+668,25,F,3,Parkinson's,Plasmapheresis,2,Yes,1
+669,57,F,1,Multiple Sclerosis,Steroid,0,Yes,0
+670,64,F,11,Parkinson's,DMT,0,No,1
+671,34,M,16,Alzheimer's,Corticosteroids,3,Yes,0
+672,67,F,18,Parkinson's,Plasmapheresis,1,No,0
+673,68,M,16,Alzheimer's,Deep Brain Stimulation,3,No,1
+674,53,F,10,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+675,37,F,18,Parkinson's,Biologic,4,No,1
+676,36,M,6,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,0
+677,55,M,19,Alzheimer's,Levodopa,1,Yes,0
+678,70,M,4,Multiple Sclerosis,DMT,3,No,1
+679,26,M,13,Parkinson's,Immunotherapy,0,Yes,0
+680,75,F,14,Alzheimer's,Corticosteroids,5,No,0
+681,74,M,3,Parkinson's,Biologic,3,Yes,0
+682,59,F,10,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,0
+683,47,M,6,Parkinson's,DMT,0,No,1
+684,41,F,1,Parkinson's,Immunotherapy,2,No,1
+685,50,F,14,Alzheimer's,Immunotherapy,4,No,1
+686,32,F,8,Parkinson's,Levodopa,4,No,0
+687,53,F,19,Parkinson's,Plasmapheresis,3,Yes,0
+688,50,F,14,Parkinson's,Corticosteroids,2,No,0
+689,34,F,10,Alzheimer's,Steroid,5,Yes,0
+690,50,M,17,Multiple Sclerosis,Corticosteroids,5,No,1
+691,58,F,9,Multiple Sclerosis,Levodopa,1,Yes,0
+692,75,M,6,Parkinson's,Physical Therapy,4,No,0
+693,65,M,11,Alzheimer's,Plasmapheresis,2,Yes,1
+694,31,F,7,Parkinson's,Biologic,3,Yes,1
+695,28,M,17,Multiple Sclerosis,Plasmapheresis,0,Yes,1
+696,82,F,1,Alzheimer's,Levodopa,3,No,0
+697,77,M,5,Multiple Sclerosis,Levodopa,3,No,0
+698,74,F,9,Multiple Sclerosis,Biologic,2,No,0
+699,69,M,18,Alzheimer's,Biologic,4,No,0
+700,35,F,2,Alzheimer's,Biologic,2,Yes,0
+701,53,F,11,Parkinson's,Plasmapheresis,0,Yes,0
+702,80,F,6,Parkinson's,DMT,2,Yes,1
+703,60,F,8,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,0
+704,49,M,4,Alzheimer's,Deep Brain Stimulation,3,Yes,1
+705,45,F,18,Alzheimer's,Biologic,4,Yes,1
+706,81,M,11,Parkinson's,Anticholinesterase Inhibitors,5,No,1
+707,60,M,5,Multiple Sclerosis,Deep Brain Stimulation,0,No,0
+708,34,M,15,Multiple Sclerosis,Plasmapheresis,5,Yes,0
+709,61,F,18,Parkinson's,Anticholinesterase Inhibitors,3,No,1
+710,33,M,2,Alzheimer's,Biologic,2,No,0
+711,48,M,11,Parkinson's,Steroid,5,No,0
+712,59,M,13,Parkinson's,Levodopa,1,No,1
+713,73,F,4,Parkinson's,Anticholinesterase Inhibitors,2,Yes,0
+714,59,F,7,Parkinson's,Immunotherapy,3,Yes,0
+715,72,M,11,Alzheimer's,Immunotherapy,5,Yes,0
+716,60,F,4,Parkinson's,Anticholinesterase Inhibitors,0,Yes,0
+717,42,F,15,Alzheimer's,Biologic,5,Yes,1
+718,73,M,1,Parkinson's,Corticosteroids,5,No,1
+719,63,M,3,Multiple Sclerosis,Biologic,4,Yes,0
+720,56,F,14,Alzheimer's,Plasmapheresis,5,Yes,0
+721,48,M,6,Multiple Sclerosis,Biologic,3,No,0
+722,47,F,18,Parkinson's,Plasmapheresis,0,No,1
+723,56,F,1,Parkinson's,Corticosteroids,3,No,0
+724,61,F,6,Parkinson's,Steroid,1,Yes,0
+725,36,F,6,Alzheimer's,Plasmapheresis,2,No,1
+726,73,F,16,Multiple Sclerosis,Physical Therapy,5,No,0
+727,79,F,5,Alzheimer's,Immunotherapy,4,No,1
+728,37,M,17,Alzheimer's,Levodopa,0,Yes,0
+729,47,M,10,Parkinson's,Immunotherapy,4,No,1
+730,49,F,18,Multiple Sclerosis,Plasmapheresis,4,No,0
+731,59,F,7,Parkinson's,Physical Therapy,4,Yes,0
+732,65,F,3,Alzheimer's,DMT,5,No,1
+733,54,M,13,Parkinson's,Steroid,0,Yes,1
+734,41,F,15,Multiple Sclerosis,Steroid,0,Yes,1
+735,73,M,20,Parkinson's,DMT,4,No,1
+736,44,F,19,Multiple Sclerosis,Levodopa,2,Yes,1
+737,72,F,3,Multiple Sclerosis,Corticosteroids,5,No,0
+738,49,M,4,Parkinson's,Deep Brain Stimulation,5,No,1
+739,46,M,5,Alzheimer's,Physical Therapy,3,No,1
+740,37,F,1,Parkinson's,Plasmapheresis,5,No,1
+741,83,F,4,Alzheimer's,Deep Brain Stimulation,4,Yes,1
+742,43,F,12,Alzheimer's,Levodopa,1,No,0
+743,73,M,10,Parkinson's,Corticosteroids,4,No,0
+744,60,M,20,Alzheimer's,Steroid,0,No,0
+745,36,M,13,Alzheimer's,Plasmapheresis,5,Yes,0
+746,65,M,14,Parkinson's,Plasmapheresis,5,Yes,0
+747,43,M,5,Parkinson's,Corticosteroids,3,No,1
+748,36,M,4,Parkinson's,Immunotherapy,1,Yes,0
+749,33,F,14,Alzheimer's,Physical Therapy,5,Yes,0
+750,31,F,10,Multiple Sclerosis,Corticosteroids,3,No,1
+751,52,M,17,Alzheimer's,Biologic,3,No,1
+752,38,F,10,Multiple Sclerosis,Biologic,1,No,0
+753,55,F,7,Parkinson's,Corticosteroids,4,No,0
+754,76,M,16,Multiple Sclerosis,Steroid,4,No,1
+755,43,F,1,Parkinson's,Corticosteroids,4,Yes,0
+756,82,M,17,Parkinson's,Anticholinesterase Inhibitors,2,No,1
+757,71,M,9,Multiple Sclerosis,Levodopa,4,No,1
+758,40,F,6,Parkinson's,Biologic,1,No,0
+759,77,M,19,Multiple Sclerosis,Deep Brain Stimulation,2,No,0
+760,29,M,13,Parkinson's,Corticosteroids,4,No,0
+761,59,M,3,Alzheimer's,Biologic,2,Yes,1
+762,36,M,7,Alzheimer's,Levodopa,1,No,1
+763,49,M,9,Parkinson's,Levodopa,4,Yes,0
+764,76,M,5,Parkinson's,Deep Brain Stimulation,0,No,0
+765,83,M,10,Multiple Sclerosis,Plasmapheresis,5,No,0
+766,45,M,17,Alzheimer's,Anticholinesterase Inhibitors,1,No,1
+767,60,F,12,Multiple Sclerosis,Corticosteroids,3,Yes,1
+768,77,F,16,Parkinson's,DMT,3,No,1
+769,47,F,3,Parkinson's,Corticosteroids,1,No,0
+770,40,M,9,Multiple Sclerosis,Plasmapheresis,3,No,1
+771,81,M,15,Parkinson's,Physical Therapy,1,No,1
+772,63,F,5,Alzheimer's,Immunotherapy,0,No,0
+773,69,F,13,Multiple Sclerosis,Steroid,1,No,1
+774,77,F,14,Alzheimer's,Plasmapheresis,4,No,0
+775,66,M,20,Alzheimer's,Levodopa,4,Yes,1
+776,82,F,15,Alzheimer's,DMT,2,No,0
+777,63,F,16,Multiple Sclerosis,Steroid,3,No,0
+778,38,M,13,Parkinson's,Biologic,5,No,1
+779,55,F,17,Alzheimer's,Corticosteroids,3,Yes,0
+780,82,M,8,Alzheimer's,Steroid,1,Yes,1
+781,29,M,2,Alzheimer's,Biologic,5,No,0
+782,59,M,5,Parkinson's,Immunotherapy,5,Yes,0
+783,47,F,6,Parkinson's,Biologic,3,No,0
+784,53,F,12,Multiple Sclerosis,DMT,5,No,1
+785,67,M,18,Parkinson's,Levodopa,5,Yes,0
+786,35,F,1,Multiple Sclerosis,Plasmapheresis,4,No,0
+787,42,F,17,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,1
+788,71,F,11,Multiple Sclerosis,Plasmapheresis,1,Yes,0
+789,36,F,10,Multiple Sclerosis,Plasmapheresis,3,Yes,0
+790,33,M,19,Multiple Sclerosis,Biologic,4,No,0
+791,34,F,14,Alzheimer's,Corticosteroids,2,No,0
+792,82,M,10,Parkinson's,Steroid,5,No,1
+793,68,M,15,Alzheimer's,Deep Brain Stimulation,5,No,0
+794,41,F,19,Multiple Sclerosis,Deep Brain Stimulation,3,No,0
+795,62,M,4,Parkinson's,Steroid,0,No,1
+796,31,F,2,Alzheimer's,Steroid,0,No,0
+797,70,F,9,Alzheimer's,Levodopa,3,Yes,0
+798,37,M,10,Multiple Sclerosis,DMT,3,No,1
+799,64,M,11,Alzheimer's,Immunotherapy,4,No,1
+800,66,M,14,Alzheimer's,DMT,3,No,1
+801,33,M,7,Alzheimer's,Steroid,2,Yes,1
+802,74,F,15,Alzheimer's,Corticosteroids,4,Yes,0
+803,51,F,19,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,1
+804,82,F,15,Multiple Sclerosis,Anticholinesterase Inhibitors,5,No,0
+805,26,M,8,Multiple Sclerosis,Immunotherapy,5,Yes,1
+806,29,M,11,Alzheimer's,Steroid,5,Yes,0
+807,53,M,9,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,1
+808,61,F,15,Multiple Sclerosis,Immunotherapy,2,No,1
+809,62,M,1,Parkinson's,Deep Brain Stimulation,4,No,0
+810,43,F,1,Alzheimer's,Immunotherapy,4,Yes,1
+811,32,M,19,Multiple Sclerosis,Deep Brain Stimulation,5,No,1
+812,72,F,3,Multiple Sclerosis,Levodopa,0,No,1
+813,69,F,10,Alzheimer's,Anticholinesterase Inhibitors,4,No,0
+814,25,M,8,Parkinson's,Immunotherapy,2,No,1
+815,46,M,15,Alzheimer's,Immunotherapy,3,No,1
+816,76,F,10,Parkinson's,Immunotherapy,2,No,0
+817,41,F,1,Alzheimer's,Corticosteroids,5,Yes,0
+818,31,M,18,Alzheimer's,Immunotherapy,5,No,1
+819,49,M,2,Alzheimer's,Corticosteroids,1,Yes,0
+820,69,F,19,Alzheimer's,Plasmapheresis,4,Yes,0
+821,28,M,13,Parkinson's,Levodopa,4,No,0
+822,60,F,1,Parkinson's,Plasmapheresis,4,Yes,1
+823,30,F,2,Multiple Sclerosis,Physical Therapy,5,Yes,1
+824,84,M,16,Alzheimer's,Plasmapheresis,4,Yes,0
+825,55,M,15,Parkinson's,Steroid,0,No,1
+826,43,M,13,Parkinson's,Deep Brain Stimulation,0,Yes,0
+827,68,M,16,Parkinson's,Steroid,3,Yes,1
+828,78,M,17,Alzheimer's,DMT,4,Yes,0
+829,63,F,7,Multiple Sclerosis,Plasmapheresis,1,Yes,1
+830,51,F,17,Parkinson's,Anticholinesterase Inhibitors,3,No,0
+831,34,M,7,Alzheimer's,Biologic,5,No,1
+832,50,M,13,Parkinson's,Plasmapheresis,4,Yes,1
+833,43,M,5,Parkinson's,Levodopa,0,No,0
+834,63,F,17,Multiple Sclerosis,Plasmapheresis,1,No,1
+835,27,M,3,Parkinson's,Corticosteroids,3,Yes,1
+836,69,M,7,Parkinson's,DMT,1,No,1
+837,37,F,17,Alzheimer's,Immunotherapy,4,No,1
+838,74,F,7,Alzheimer's,DMT,2,Yes,1
+839,52,M,1,Multiple Sclerosis,DMT,1,Yes,1
+840,82,M,17,Alzheimer's,Deep Brain Stimulation,1,No,1
+841,44,M,17,Alzheimer's,Biologic,5,No,1
+842,52,F,11,Multiple Sclerosis,DMT,0,No,0
+843,32,M,3,Parkinson's,Deep Brain Stimulation,4,No,1
+844,65,M,15,Multiple Sclerosis,Immunotherapy,1,Yes,0
+845,63,M,11,Alzheimer's,Steroid,4,Yes,1
+846,25,F,16,Multiple Sclerosis,Immunotherapy,0,Yes,0
+847,27,F,9,Parkinson's,Anticholinesterase Inhibitors,5,Yes,1
+848,37,M,1,Multiple Sclerosis,DMT,4,Yes,0
+849,52,M,16,Alzheimer's,DMT,0,No,0
+850,81,F,9,Alzheimer's,Steroid,0,No,1
+851,84,F,19,Multiple Sclerosis,Levodopa,3,Yes,0
+852,73,F,12,Parkinson's,DMT,5,Yes,1
+853,49,F,19,Multiple Sclerosis,Biologic,5,Yes,1
+854,80,F,9,Parkinson's,Physical Therapy,4,No,0
+855,57,F,7,Parkinson's,DMT,2,No,1
+856,62,F,14,Multiple Sclerosis,Physical Therapy,3,No,0
+857,77,F,19,Parkinson's,Immunotherapy,5,Yes,0
+858,30,F,19,Alzheimer's,Plasmapheresis,0,Yes,1
+859,82,M,2,Multiple Sclerosis,Levodopa,5,Yes,1
+860,68,M,9,Parkinson's,Deep Brain Stimulation,2,Yes,1
+861,69,M,13,Alzheimer's,Corticosteroids,1,Yes,1
+862,56,F,15,Multiple Sclerosis,Levodopa,1,No,1
+863,69,M,3,Alzheimer's,Corticosteroids,5,Yes,0
+864,71,F,11,Alzheimer's,Immunotherapy,5,No,0
+865,45,F,14,Alzheimer's,Levodopa,3,No,1
+866,40,M,8,Parkinson's,Deep Brain Stimulation,5,No,1
+867,78,F,18,Multiple Sclerosis,Corticosteroids,2,No,1
+868,45,M,19,Multiple Sclerosis,Steroid,5,No,0
+869,35,M,16,Parkinson's,Biologic,4,Yes,0
+870,84,M,2,Multiple Sclerosis,Levodopa,2,Yes,0
+871,61,F,8,Alzheimer's,Immunotherapy,3,Yes,1
+872,60,M,6,Multiple Sclerosis,DMT,4,No,1
+873,59,F,12,Parkinson's,Deep Brain Stimulation,4,No,0
+874,43,M,15,Alzheimer's,Corticosteroids,1,No,1
+875,44,M,8,Parkinson's,Corticosteroids,2,No,1
+876,81,M,4,Alzheimer's,Biologic,4,No,0
+877,42,F,15,Alzheimer's,Corticosteroids,3,No,0
+878,71,F,20,Multiple Sclerosis,Physical Therapy,1,Yes,1
+879,65,F,17,Alzheimer's,Anticholinesterase Inhibitors,4,No,0
+880,73,M,13,Parkinson's,Physical Therapy,2,No,1
+881,38,M,18,Multiple Sclerosis,Corticosteroids,1,Yes,0
+882,39,F,2,Parkinson's,Deep Brain Stimulation,2,No,0
+883,55,F,13,Alzheimer's,Levodopa,2,Yes,1
+884,25,F,13,Parkinson's,Immunotherapy,2,Yes,1
+885,77,F,15,Parkinson's,DMT,1,Yes,0
+886,78,F,20,Alzheimer's,Levodopa,4,No,1
+887,78,F,10,Multiple Sclerosis,Steroid,5,Yes,0
+888,27,M,3,Parkinson's,Levodopa,0,Yes,1
+889,40,F,19,Alzheimer's,Levodopa,4,No,0
+890,47,M,3,Multiple Sclerosis,Immunotherapy,1,Yes,0
+891,81,M,14,Multiple Sclerosis,Biologic,0,No,0
+892,35,F,8,Multiple Sclerosis,Corticosteroids,0,No,1
+893,36,F,4,Parkinson's,Biologic,0,Yes,0
+894,34,M,20,Parkinson's,Steroid,5,No,0
+895,56,F,11,Parkinson's,Plasmapheresis,3,No,0
+896,40,F,11,Multiple Sclerosis,DMT,1,Yes,0
+897,32,M,11,Parkinson's,Physical Therapy,5,Yes,1
+898,62,M,2,Alzheimer's,DMT,5,Yes,1
+899,36,M,17,Parkinson's,Corticosteroids,3,Yes,0
+900,48,F,9,Parkinson's,DMT,0,No,0
+901,52,M,2,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,1
+902,77,F,15,Parkinson's,Physical Therapy,3,Yes,0
+903,32,M,16,Alzheimer's,Steroid,5,Yes,1
+904,82,M,4,Multiple Sclerosis,Corticosteroids,1,No,0
+905,52,M,8,Alzheimer's,Deep Brain Stimulation,2,No,1
+906,60,F,9,Multiple Sclerosis,Steroid,3,No,0
+907,50,F,5,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,1
+908,32,M,16,Parkinson's,Physical Therapy,0,No,1
+909,82,M,13,Alzheimer's,Immunotherapy,0,Yes,1
+910,84,M,7,Multiple Sclerosis,Anticholinesterase Inhibitors,5,No,0
+911,74,F,20,Parkinson's,Steroid,0,No,1
+912,52,M,17,Multiple Sclerosis,Corticosteroids,4,No,1
+913,52,F,3,Multiple Sclerosis,Plasmapheresis,3,Yes,0
+914,61,M,5,Multiple Sclerosis,Corticosteroids,0,Yes,0
+915,65,M,19,Multiple Sclerosis,Physical Therapy,1,No,0
+916,60,M,12,Multiple Sclerosis,Plasmapheresis,4,Yes,0
+917,51,M,7,Multiple Sclerosis,Biologic,5,No,1
+918,78,M,9,Parkinson's,Physical Therapy,2,Yes,0
+919,41,M,6,Multiple Sclerosis,Physical Therapy,3,Yes,0
+920,33,F,17,Alzheimer's,Anticholinesterase Inhibitors,3,No,0
+921,57,M,16,Parkinson's,Corticosteroids,1,Yes,0
+922,77,F,3,Alzheimer's,Steroid,2,No,0
+923,44,M,4,Multiple Sclerosis,Immunotherapy,2,No,0
+924,37,M,10,Alzheimer's,DMT,5,No,0
+925,52,F,5,Multiple Sclerosis,Levodopa,5,Yes,1
+926,72,M,10,Multiple Sclerosis,Immunotherapy,4,Yes,1
+927,53,F,12,Parkinson's,DMT,3,No,1
+928,37,F,10,Parkinson's,Biologic,0,No,1
+929,70,M,13,Multiple Sclerosis,Steroid,5,Yes,1
+930,59,F,11,Parkinson's,Corticosteroids,1,No,0
+931,30,F,16,Alzheimer's,Deep Brain Stimulation,1,Yes,0
+932,42,M,8,Parkinson's,Physical Therapy,1,Yes,0
+933,75,F,8,Parkinson's,Immunotherapy,5,Yes,0
+934,29,M,8,Alzheimer's,DMT,5,No,1
+935,71,M,13,Parkinson's,Deep Brain Stimulation,1,No,1
+936,49,M,2,Multiple Sclerosis,Immunotherapy,5,Yes,0
+937,26,M,12,Alzheimer's,Steroid,0,No,0
+938,34,F,10,Multiple Sclerosis,Corticosteroids,0,No,1
+939,80,M,12,Alzheimer's,Plasmapheresis,4,Yes,1
+940,54,M,11,Multiple Sclerosis,Immunotherapy,3,Yes,1
+941,74,F,15,Multiple Sclerosis,Immunotherapy,0,No,0
+942,83,M,16,Parkinson's,Corticosteroids,4,Yes,0
+943,69,M,17,Multiple Sclerosis,Biologic,2,No,1
+944,29,F,2,Parkinson's,Anticholinesterase Inhibitors,3,Yes,1
+945,79,F,18,Alzheimer's,Immunotherapy,0,Yes,0
+946,80,F,12,Multiple Sclerosis,Corticosteroids,2,No,0
+947,57,F,19,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+948,78,F,18,Alzheimer's,Corticosteroids,0,No,0
+949,25,F,17,Alzheimer's,Corticosteroids,0,No,1
+950,42,F,6,Multiple Sclerosis,Biologic,5,No,1
+951,56,M,15,Alzheimer's,Corticosteroids,2,Yes,1
+952,71,F,3,Parkinson's,Steroid,0,Yes,0
+953,73,F,6,Alzheimer's,Immunotherapy,1,No,0
+954,35,F,3,Alzheimer's,DMT,5,Yes,0
+955,45,M,1,Multiple Sclerosis,DMT,5,No,1
+956,50,M,13,Parkinson's,DMT,0,Yes,1
+957,49,F,14,Alzheimer's,Corticosteroids,5,Yes,1
+958,46,F,13,Parkinson's,Deep Brain Stimulation,3,No,0
+959,83,F,4,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+960,51,M,7,Parkinson's,Anticholinesterase Inhibitors,3,No,1
+961,73,M,10,Multiple Sclerosis,Corticosteroids,4,Yes,0
+962,37,F,7,Alzheimer's,Steroid,3,No,1
+963,57,M,15,Multiple Sclerosis,Steroid,1,No,1
+964,58,F,15,Alzheimer's,Physical Therapy,5,No,1
+965,65,M,4,Alzheimer's,Corticosteroids,5,No,1
+966,59,M,6,Multiple Sclerosis,Levodopa,1,No,0
+967,25,F,20,Parkinson's,Biologic,5,No,0
+968,45,F,5,Parkinson's,DMT,3,Yes,0
+969,72,F,20,Alzheimer's,Biologic,4,Yes,0
+970,79,F,12,Multiple Sclerosis,DMT,0,Yes,0
+971,30,M,1,Parkinson's,Plasmapheresis,1,Yes,0
+972,52,M,8,Parkinson's,Plasmapheresis,3,No,1
+973,41,M,1,Alzheimer's,Corticosteroids,3,No,0
+974,29,F,5,Alzheimer's,Plasmapheresis,3,Yes,0
+975,55,M,6,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,0
+976,29,F,3,Alzheimer's,Physical Therapy,2,Yes,1
+977,62,M,15,Parkinson's,Steroid,5,No,0
+978,27,F,5,Parkinson's,Deep Brain Stimulation,5,No,1
+979,77,F,14,Parkinson's,Biologic,4,No,0
+980,47,M,18,Parkinson's,Biologic,2,Yes,0
+981,61,F,16,Multiple Sclerosis,Plasmapheresis,5,Yes,0
+982,77,F,6,Multiple Sclerosis,Steroid,4,Yes,1
+983,61,M,14,Alzheimer's,Physical Therapy,4,Yes,1
+984,34,F,8,Alzheimer's,DMT,3,Yes,0
+985,34,F,7,Alzheimer's,Deep Brain Stimulation,1,No,0
+986,43,F,8,Multiple Sclerosis,Physical Therapy,3,No,0
+987,41,M,13,Parkinson's,Immunotherapy,0,No,1
+988,45,M,6,Alzheimer's,Anticholinesterase Inhibitors,5,No,1
+989,38,F,18,Parkinson's,Plasmapheresis,4,No,0
+990,33,M,2,Alzheimer's,DMT,1,Yes,1
+991,70,F,8,Alzheimer's,Immunotherapy,5,No,1
+992,25,F,11,Alzheimer's,DMT,4,Yes,1
+993,75,F,1,Alzheimer's,DMT,4,No,1
+994,69,F,6,Alzheimer's,Plasmapheresis,3,Yes,0
+995,37,F,16,Parkinson's,DMT,1,Yes,0
+996,28,M,20,Alzheimer's,Physical Therapy,1,Yes,1
+997,25,F,12,Parkinson's,Physical Therapy,5,Yes,1
+998,73,M,11,Multiple Sclerosis,Immunotherapy,4,Yes,1
+999,64,M,10,Alzheimer's,Biologic,1,Yes,0
+1000,56,F,3,Parkinson's,Steroid,1,No,0
+1001,58,F,13,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,1
+1002,52,M,3,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1003,55,M,15,Multiple Sclerosis,Levodopa,2,No,1
+1004,32,M,16,Parkinson's,Plasmapheresis,0,Yes,1
+1005,63,F,13,Alzheimer's,Corticosteroids,2,No,0
+1006,50,M,17,Alzheimer's,Corticosteroids,1,No,0
+1007,82,F,3,Parkinson's,Immunotherapy,4,Yes,0
+1008,58,F,20,Alzheimer's,DMT,0,Yes,0
+1009,78,F,11,Parkinson's,DMT,0,No,0
+1010,78,M,19,Alzheimer's,Plasmapheresis,4,Yes,0
+1011,27,F,11,Multiple Sclerosis,Anticholinesterase Inhibitors,0,No,1
+1012,83,F,16,Alzheimer's,Biologic,4,Yes,1
+1013,74,F,3,Parkinson's,Levodopa,0,No,0
+1014,36,F,6,Parkinson's,Physical Therapy,5,Yes,0
+1015,25,F,14,Multiple Sclerosis,DMT,5,Yes,0
+1016,78,M,18,Parkinson's,Levodopa,2,No,1
+1017,68,F,17,Alzheimer's,Deep Brain Stimulation,0,No,1
+1018,29,F,4,Alzheimer's,Anticholinesterase Inhibitors,3,No,1
+1019,54,M,15,Multiple Sclerosis,Physical Therapy,4,No,1
+1020,54,F,11,Parkinson's,Plasmapheresis,0,Yes,0
+1021,83,M,3,Multiple Sclerosis,Levodopa,5,No,1
+1022,81,F,3,Alzheimer's,Immunotherapy,5,No,0
+1023,41,M,16,Multiple Sclerosis,Physical Therapy,4,Yes,1
+1024,72,M,5,Parkinson's,Plasmapheresis,3,Yes,1
+1025,71,F,10,Multiple Sclerosis,Corticosteroids,0,No,1
+1026,47,F,19,Parkinson's,Plasmapheresis,0,Yes,1
+1027,39,F,4,Parkinson's,Plasmapheresis,3,No,0
+1028,61,M,19,Alzheimer's,Physical Therapy,3,Yes,0
+1029,45,M,11,Alzheimer's,Anticholinesterase Inhibitors,3,No,0
+1030,38,M,2,Alzheimer's,Physical Therapy,5,Yes,0
+1031,26,F,10,Parkinson's,Steroid,4,No,0
+1032,35,M,11,Multiple Sclerosis,Biologic,3,No,0
+1033,75,M,20,Parkinson's,Anticholinesterase Inhibitors,4,Yes,0
+1034,63,F,16,Alzheimer's,Immunotherapy,2,Yes,1
+1035,62,M,19,Alzheimer's,Anticholinesterase Inhibitors,0,No,0
+1036,84,M,11,Multiple Sclerosis,Deep Brain Stimulation,0,No,1
+1037,58,F,14,Alzheimer's,Immunotherapy,1,Yes,0
+1038,62,M,2,Alzheimer's,Corticosteroids,2,Yes,1
+1039,74,F,5,Alzheimer's,Physical Therapy,3,Yes,0
+1040,58,F,5,Multiple Sclerosis,Plasmapheresis,3,Yes,1
+1041,42,F,19,Parkinson's,Physical Therapy,5,Yes,0
+1042,54,F,12,Alzheimer's,Deep Brain Stimulation,2,Yes,0
+1043,39,F,18,Multiple Sclerosis,Levodopa,3,Yes,0
+1044,51,M,4,Alzheimer's,Deep Brain Stimulation,1,Yes,0
+1045,75,M,17,Multiple Sclerosis,Steroid,4,Yes,1
+1046,58,F,10,Alzheimer's,Plasmapheresis,0,No,0
+1047,76,F,20,Multiple Sclerosis,Plasmapheresis,2,Yes,0
+1048,81,M,6,Alzheimer's,DMT,0,Yes,1
+1049,62,F,14,Parkinson's,Levodopa,4,No,0
+1050,57,F,11,Alzheimer's,DMT,2,No,1
+1051,48,F,11,Multiple Sclerosis,Corticosteroids,4,No,1
+1052,39,M,18,Alzheimer's,Biologic,3,No,0
+1053,84,M,18,Parkinson's,Biologic,3,No,0
+1054,54,F,11,Alzheimer's,Physical Therapy,3,No,1
+1055,79,F,12,Multiple Sclerosis,Biologic,4,Yes,0
+1056,66,M,5,Multiple Sclerosis,Plasmapheresis,4,No,1
+1057,75,M,9,Parkinson's,Deep Brain Stimulation,4,No,0
+1058,41,F,9,Multiple Sclerosis,Levodopa,0,No,0
+1059,29,F,10,Alzheimer's,Physical Therapy,4,Yes,1
+1060,53,M,19,Alzheimer's,Physical Therapy,3,No,0
+1061,28,M,1,Alzheimer's,Levodopa,1,Yes,0
+1062,34,M,7,Multiple Sclerosis,Plasmapheresis,4,No,0
+1063,80,F,4,Alzheimer's,Corticosteroids,1,No,1
+1064,41,M,1,Alzheimer's,Corticosteroids,3,Yes,0
+1065,34,F,15,Alzheimer's,Physical Therapy,4,Yes,1
+1066,41,M,8,Parkinson's,Corticosteroids,0,No,0
+1067,84,M,12,Multiple Sclerosis,Plasmapheresis,0,Yes,1
+1068,44,M,18,Multiple Sclerosis,Steroid,1,Yes,0
+1069,48,M,15,Multiple Sclerosis,Steroid,5,No,0
+1070,29,F,17,Parkinson's,DMT,0,No,1
+1071,58,F,14,Multiple Sclerosis,Anticholinesterase Inhibitors,0,No,0
+1072,30,M,14,Parkinson's,Immunotherapy,0,Yes,1
+1073,77,F,18,Parkinson's,Biologic,3,No,0
+1074,26,M,20,Multiple Sclerosis,Corticosteroids,0,No,1
+1075,37,M,18,Alzheimer's,Steroid,2,Yes,0
+1076,67,M,16,Alzheimer's,Deep Brain Stimulation,4,Yes,1
+1077,67,M,1,Multiple Sclerosis,Levodopa,0,No,0
+1078,72,F,11,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,1
+1079,35,M,15,Parkinson's,DMT,5,No,1
+1080,75,M,12,Multiple Sclerosis,Immunotherapy,0,Yes,0
+1081,71,F,8,Parkinson's,Steroid,0,No,1
+1082,81,M,20,Multiple Sclerosis,DMT,2,Yes,1
+1083,47,M,6,Alzheimer's,Anticholinesterase Inhibitors,0,Yes,0
+1084,79,M,3,Alzheimer's,Levodopa,0,Yes,0
+1085,40,F,13,Multiple Sclerosis,Biologic,4,Yes,0
+1086,55,M,13,Parkinson's,Steroid,5,No,0
+1087,35,F,2,Alzheimer's,Levodopa,2,Yes,0
+1088,78,M,5,Parkinson's,Immunotherapy,5,No,0
+1089,40,M,17,Multiple Sclerosis,Corticosteroids,2,Yes,1
+1090,32,F,6,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,1
+1091,28,M,2,Alzheimer's,Immunotherapy,0,No,1
+1092,64,M,4,Multiple Sclerosis,Biologic,5,Yes,0
+1093,28,F,11,Alzheimer's,Levodopa,5,Yes,0
+1094,80,F,8,Parkinson's,Plasmapheresis,2,No,1
+1095,49,F,12,Alzheimer's,Biologic,1,Yes,1
+1096,27,F,8,Alzheimer's,Physical Therapy,2,No,0
+1097,56,F,11,Parkinson's,Steroid,2,Yes,1
+1098,27,M,20,Alzheimer's,Corticosteroids,2,Yes,0
+1099,51,F,8,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,0
+1100,53,M,8,Multiple Sclerosis,Deep Brain Stimulation,3,No,1
+1101,56,M,17,Parkinson's,Levodopa,3,Yes,0
+1102,74,M,20,Alzheimer's,Plasmapheresis,2,Yes,0
+1103,82,F,20,Parkinson's,Deep Brain Stimulation,1,Yes,0
+1104,75,F,16,Parkinson's,Steroid,2,Yes,0
+1105,43,M,14,Alzheimer's,Steroid,0,Yes,1
+1106,45,F,11,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,0
+1107,29,F,7,Parkinson's,Plasmapheresis,3,Yes,0
+1108,42,F,16,Alzheimer's,Steroid,5,Yes,1
+1109,52,F,13,Parkinson's,Deep Brain Stimulation,5,Yes,0
+1110,66,M,15,Multiple Sclerosis,Plasmapheresis,4,No,0
+1111,46,M,16,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,1
+1112,45,F,9,Multiple Sclerosis,Biologic,3,No,1
+1113,30,M,3,Alzheimer's,Immunotherapy,1,No,0
+1114,25,F,19,Alzheimer's,Plasmapheresis,1,No,0
+1115,29,F,20,Multiple Sclerosis,DMT,5,Yes,1
+1116,65,M,5,Alzheimer's,Immunotherapy,2,No,0
+1117,36,M,10,Multiple Sclerosis,Immunotherapy,0,No,0
+1118,50,M,17,Alzheimer's,Plasmapheresis,4,No,0
+1119,70,F,15,Multiple Sclerosis,Corticosteroids,3,Yes,1
+1120,58,M,8,Parkinson's,Steroid,1,No,0
+1121,73,F,15,Multiple Sclerosis,Biologic,4,Yes,1
+1122,38,M,14,Multiple Sclerosis,Corticosteroids,1,No,1
+1123,50,M,20,Alzheimer's,Corticosteroids,5,No,1
+1124,69,F,7,Alzheimer's,DMT,0,Yes,1
+1125,51,F,12,Alzheimer's,Levodopa,5,Yes,0
+1126,33,F,17,Alzheimer's,Plasmapheresis,4,No,1
+1127,50,F,17,Alzheimer's,Deep Brain Stimulation,3,No,0
+1128,81,F,10,Alzheimer's,Steroid,1,No,1
+1129,71,F,19,Parkinson's,Corticosteroids,0,Yes,1
+1130,81,F,14,Multiple Sclerosis,Biologic,5,Yes,0
+1131,46,F,11,Multiple Sclerosis,Levodopa,4,No,1
+1132,71,M,2,Multiple Sclerosis,DMT,5,No,1
+1133,80,F,18,Parkinson's,Physical Therapy,1,Yes,0
+1134,54,F,7,Multiple Sclerosis,Steroid,1,Yes,1
+1135,67,M,12,Parkinson's,Physical Therapy,3,No,1
+1136,72,F,2,Parkinson's,Immunotherapy,0,Yes,1
+1137,41,M,20,Parkinson's,Corticosteroids,2,No,0
+1138,50,M,18,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,1
+1139,60,F,6,Parkinson's,Steroid,1,No,0
+1140,25,M,10,Multiple Sclerosis,Deep Brain Stimulation,4,No,0
+1141,32,F,20,Multiple Sclerosis,Levodopa,5,No,0
+1142,73,M,15,Alzheimer's,Biologic,3,Yes,1
+1143,59,M,5,Alzheimer's,Steroid,3,No,1
+1144,76,M,20,Parkinson's,Deep Brain Stimulation,1,No,1
+1145,39,F,3,Parkinson's,Plasmapheresis,1,Yes,1
+1146,71,F,5,Multiple Sclerosis,Physical Therapy,1,No,0
+1147,80,M,8,Parkinson's,Plasmapheresis,2,No,0
+1148,46,M,8,Parkinson's,Levodopa,1,No,1
+1149,38,F,8,Multiple Sclerosis,DMT,5,Yes,1
+1150,50,F,12,Parkinson's,Corticosteroids,5,Yes,0
+1151,52,M,8,Parkinson's,Steroid,0,Yes,1
+1152,47,M,11,Multiple Sclerosis,Anticholinesterase Inhibitors,4,Yes,1
+1153,38,F,14,Multiple Sclerosis,Physical Therapy,1,No,1
+1154,48,F,8,Alzheimer's,Physical Therapy,5,Yes,1
+1155,26,F,10,Multiple Sclerosis,Steroid,5,Yes,1
+1156,69,F,7,Alzheimer's,Immunotherapy,5,Yes,1
+1157,50,F,17,Parkinson's,Plasmapheresis,2,No,0
+1158,38,M,4,Multiple Sclerosis,Physical Therapy,4,No,0
+1159,83,F,13,Multiple Sclerosis,Deep Brain Stimulation,3,No,0
+1160,80,M,4,Multiple Sclerosis,Biologic,5,Yes,0
+1161,75,F,5,Parkinson's,Corticosteroids,1,No,1
+1162,31,M,4,Alzheimer's,Physical Therapy,5,No,1
+1163,27,F,18,Parkinson's,Deep Brain Stimulation,4,Yes,0
+1164,71,F,6,Parkinson's,Levodopa,3,No,0
+1165,47,M,2,Multiple Sclerosis,Levodopa,2,Yes,0
+1166,70,M,11,Alzheimer's,Corticosteroids,0,Yes,0
+1167,67,F,14,Parkinson's,Immunotherapy,1,No,0
+1168,71,F,5,Multiple Sclerosis,Anticholinesterase Inhibitors,0,Yes,1
+1169,84,F,6,Parkinson's,Corticosteroids,2,Yes,1
+1170,69,F,10,Parkinson's,DMT,4,Yes,0
+1171,42,F,8,Multiple Sclerosis,Immunotherapy,4,Yes,0
+1172,82,M,14,Multiple Sclerosis,Physical Therapy,2,Yes,1
+1173,62,M,3,Alzheimer's,Corticosteroids,5,Yes,1
+1174,59,F,12,Parkinson's,Plasmapheresis,2,No,1
+1175,75,M,16,Multiple Sclerosis,Levodopa,1,Yes,0
+1176,39,M,17,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1177,49,M,1,Alzheimer's,Corticosteroids,0,Yes,0
+1178,79,F,10,Alzheimer's,Plasmapheresis,0,Yes,0
+1179,61,M,10,Multiple Sclerosis,Immunotherapy,4,No,1
+1180,52,F,2,Alzheimer's,DMT,5,No,1
+1181,34,M,9,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,1
+1182,63,F,13,Parkinson's,Biologic,1,No,0
+1183,81,M,16,Alzheimer's,DMT,2,Yes,1
+1184,41,F,18,Parkinson's,Physical Therapy,0,Yes,1
+1185,63,F,19,Parkinson's,Plasmapheresis,1,Yes,0
+1186,46,M,12,Parkinson's,Corticosteroids,4,Yes,1
+1187,50,F,8,Multiple Sclerosis,Corticosteroids,4,No,1
+1188,68,F,17,Parkinson's,Steroid,0,No,0
+1189,49,F,15,Parkinson's,Levodopa,4,Yes,0
+1190,41,F,10,Parkinson's,Physical Therapy,5,Yes,0
+1191,37,F,15,Multiple Sclerosis,Plasmapheresis,4,No,0
+1192,44,F,15,Parkinson's,Corticosteroids,3,No,0
+1193,49,F,7,Parkinson's,Biologic,2,Yes,1
+1194,28,F,13,Alzheimer's,Deep Brain Stimulation,4,No,1
+1195,34,M,17,Multiple Sclerosis,Physical Therapy,3,Yes,0
+1196,27,M,9,Parkinson's,Immunotherapy,1,No,1
+1197,65,F,8,Alzheimer's,Biologic,4,No,1
+1198,69,F,20,Multiple Sclerosis,Deep Brain Stimulation,5,No,0
+1199,42,M,18,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,0
+1200,71,M,13,Multiple Sclerosis,Levodopa,4,Yes,0
+1201,60,M,16,Multiple Sclerosis,Physical Therapy,0,Yes,1
+1202,71,F,9,Multiple Sclerosis,Plasmapheresis,3,No,0
+1203,46,M,12,Multiple Sclerosis,DMT,3,Yes,1
+1204,58,F,12,Parkinson's,Deep Brain Stimulation,0,No,1
+1205,71,F,6,Parkinson's,Immunotherapy,2,No,1
+1206,32,M,19,Parkinson's,Corticosteroids,5,Yes,1
+1207,64,F,7,Parkinson's,DMT,3,Yes,0
+1208,73,F,3,Alzheimer's,Biologic,1,Yes,1
+1209,68,F,16,Parkinson's,Levodopa,5,No,0
+1210,43,F,18,Multiple Sclerosis,Plasmapheresis,3,Yes,1
+1211,66,M,16,Parkinson's,DMT,2,Yes,0
+1212,65,M,7,Parkinson's,Immunotherapy,1,Yes,0
+1213,61,F,4,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,0
+1214,30,F,8,Parkinson's,Plasmapheresis,1,No,1
+1215,76,M,13,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+1216,50,F,13,Parkinson's,Corticosteroids,4,No,1
+1217,58,M,17,Alzheimer's,Levodopa,0,No,0
+1218,83,F,17,Parkinson's,DMT,5,No,1
+1219,80,F,5,Multiple Sclerosis,Levodopa,4,No,1
+1220,83,M,6,Multiple Sclerosis,Levodopa,0,No,1
+1221,69,M,19,Parkinson's,Levodopa,4,Yes,0
+1222,30,M,13,Parkinson's,Deep Brain Stimulation,3,No,1
+1223,61,M,14,Parkinson's,Levodopa,1,No,1
+1224,81,F,4,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+1225,57,M,7,Multiple Sclerosis,Biologic,3,No,0
+1226,77,F,8,Alzheimer's,Immunotherapy,2,Yes,0
+1227,46,M,13,Alzheimer's,Plasmapheresis,0,No,0
+1228,45,M,6,Alzheimer's,Anticholinesterase Inhibitors,2,No,0
+1229,30,F,6,Multiple Sclerosis,Plasmapheresis,5,Yes,0
+1230,30,M,3,Alzheimer's,Immunotherapy,3,No,1
+1231,79,M,3,Parkinson's,Biologic,2,No,1
+1232,72,M,13,Parkinson's,Physical Therapy,2,No,0
+1233,28,M,2,Multiple Sclerosis,Plasmapheresis,3,No,1
+1234,54,F,16,Alzheimer's,Plasmapheresis,1,No,0
+1235,35,F,6,Parkinson's,Biologic,4,No,1
+1236,54,M,8,Multiple Sclerosis,DMT,5,No,0
+1237,55,M,8,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,0
+1238,48,M,6,Parkinson's,DMT,0,Yes,1
+1239,79,F,14,Alzheimer's,DMT,4,No,1
+1240,33,F,3,Multiple Sclerosis,DMT,0,Yes,1
+1241,79,F,10,Alzheimer's,Levodopa,5,No,1
+1242,27,F,3,Multiple Sclerosis,Corticosteroids,4,Yes,1
+1243,75,M,12,Alzheimer's,Plasmapheresis,2,No,1
+1244,55,M,17,Parkinson's,DMT,1,Yes,1
+1245,64,M,5,Multiple Sclerosis,Anticholinesterase Inhibitors,2,No,1
+1246,61,F,20,Multiple Sclerosis,Corticosteroids,1,Yes,0
+1247,60,M,9,Multiple Sclerosis,Corticosteroids,3,Yes,1
+1248,48,F,20,Alzheimer's,DMT,0,No,1
+1249,55,F,7,Alzheimer's,Deep Brain Stimulation,0,No,0
+1250,30,M,4,Parkinson's,DMT,3,Yes,0
+1251,26,M,13,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,0
+1252,44,M,13,Multiple Sclerosis,DMT,3,No,0
+1253,52,F,10,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,1
+1254,35,F,18,Alzheimer's,Deep Brain Stimulation,3,No,1
+1255,28,M,17,Parkinson's,Levodopa,1,Yes,0
+1256,39,M,20,Parkinson's,Corticosteroids,5,Yes,0
+1257,30,F,20,Alzheimer's,DMT,3,No,1
+1258,78,M,13,Multiple Sclerosis,Corticosteroids,0,No,1
+1259,73,F,17,Parkinson's,DMT,2,No,1
+1260,54,F,4,Alzheimer's,Plasmapheresis,1,Yes,1
+1261,80,M,1,Alzheimer's,Plasmapheresis,1,Yes,0
+1262,62,M,1,Multiple Sclerosis,Steroid,4,Yes,1
+1263,75,M,15,Alzheimer's,DMT,2,No,0
+1264,81,M,13,Alzheimer's,Steroid,1,Yes,0
+1265,26,F,17,Parkinson's,Biologic,3,Yes,0
+1266,39,F,8,Alzheimer's,Biologic,1,No,1
+1267,35,F,18,Alzheimer's,Corticosteroids,1,Yes,0
+1268,32,M,13,Parkinson's,Deep Brain Stimulation,1,Yes,1
+1269,50,F,14,Multiple Sclerosis,DMT,4,No,0
+1270,75,M,8,Multiple Sclerosis,Immunotherapy,1,No,1
+1271,69,M,8,Parkinson's,DMT,1,No,0
+1272,68,M,15,Parkinson's,DMT,4,No,0
+1273,29,M,13,Multiple Sclerosis,Immunotherapy,5,No,1
+1274,30,M,7,Multiple Sclerosis,Biologic,2,No,1
+1275,50,M,5,Multiple Sclerosis,Steroid,5,No,0
+1276,78,F,17,Multiple Sclerosis,Corticosteroids,0,No,0
+1277,28,M,16,Multiple Sclerosis,Biologic,4,No,1
+1278,43,F,2,Parkinson's,Immunotherapy,4,Yes,0
+1279,44,F,18,Alzheimer's,DMT,1,No,1
+1280,57,M,17,Multiple Sclerosis,Biologic,1,No,1
+1281,44,M,7,Multiple Sclerosis,Anticholinesterase Inhibitors,0,Yes,0
+1282,73,M,13,Alzheimer's,Plasmapheresis,1,No,1
+1283,36,F,18,Alzheimer's,DMT,3,Yes,0
+1284,71,M,14,Alzheimer's,Physical Therapy,1,Yes,1
+1285,25,F,18,Alzheimer's,Immunotherapy,1,No,1
+1286,50,M,13,Alzheimer's,Levodopa,3,Yes,0
+1287,38,M,11,Alzheimer's,Deep Brain Stimulation,0,No,1
+1288,62,F,16,Parkinson's,Levodopa,3,No,0
+1289,61,F,17,Alzheimer's,Biologic,4,Yes,1
+1290,35,M,8,Alzheimer's,DMT,3,Yes,1
+1291,60,F,19,Parkinson's,Deep Brain Stimulation,2,Yes,1
+1292,37,F,20,Alzheimer's,Deep Brain Stimulation,4,No,1
+1293,67,F,15,Multiple Sclerosis,Corticosteroids,1,No,0
+1294,27,F,9,Multiple Sclerosis,Levodopa,4,Yes,1
+1295,57,F,20,Alzheimer's,DMT,0,No,1
+1296,30,M,10,Parkinson's,Corticosteroids,0,No,1
+1297,74,M,12,Multiple Sclerosis,Steroid,3,Yes,0
+1298,80,F,20,Parkinson's,Levodopa,4,Yes,0
+1299,34,M,1,Multiple Sclerosis,Plasmapheresis,1,Yes,0
+1300,29,M,20,Alzheimer's,Plasmapheresis,0,Yes,0
+1301,47,F,9,Parkinson's,Corticosteroids,5,Yes,1
+1302,34,M,15,Parkinson's,Steroid,1,Yes,1
+1303,68,F,1,Parkinson's,Anticholinesterase Inhibitors,5,Yes,1
+1304,26,F,12,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,0
+1305,37,M,3,Multiple Sclerosis,Plasmapheresis,5,Yes,0
+1306,64,F,11,Multiple Sclerosis,Physical Therapy,0,Yes,1
+1307,26,F,2,Alzheimer's,Immunotherapy,3,No,1
+1308,44,F,16,Multiple Sclerosis,Immunotherapy,2,No,1
+1309,25,F,9,Alzheimer's,Physical Therapy,4,Yes,0
+1310,61,F,15,Parkinson's,Corticosteroids,1,No,1
+1311,33,M,12,Parkinson's,Immunotherapy,0,No,1
+1312,41,M,1,Alzheimer's,Immunotherapy,2,No,0
+1313,33,F,13,Multiple Sclerosis,Levodopa,2,No,0
+1314,35,F,14,Alzheimer's,Levodopa,0,No,1
+1315,39,M,8,Parkinson's,Physical Therapy,4,No,0
+1316,48,F,8,Parkinson's,DMT,4,Yes,1
+1317,62,M,12,Alzheimer's,Steroid,3,Yes,1
+1318,79,F,1,Multiple Sclerosis,Corticosteroids,5,No,1
+1319,59,F,11,Multiple Sclerosis,Levodopa,4,No,1
+1320,54,F,8,Alzheimer's,Levodopa,3,Yes,0
+1321,55,F,10,Alzheimer's,Anticholinesterase Inhibitors,5,No,0
+1322,73,F,19,Multiple Sclerosis,Steroid,2,No,0
+1323,29,F,11,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+1324,84,F,7,Alzheimer's,DMT,4,No,1
+1325,68,M,11,Multiple Sclerosis,Steroid,3,No,1
+1326,74,M,17,Multiple Sclerosis,Immunotherapy,2,Yes,0
+1327,38,M,1,Parkinson's,Anticholinesterase Inhibitors,4,Yes,0
+1328,77,F,8,Parkinson's,Plasmapheresis,1,No,1
+1329,80,F,6,Parkinson's,Corticosteroids,2,Yes,0
+1330,35,F,18,Parkinson's,Immunotherapy,4,No,0
+1331,33,F,6,Parkinson's,Steroid,2,No,0
+1332,58,F,5,Alzheimer's,Plasmapheresis,0,No,0
+1333,36,F,13,Multiple Sclerosis,DMT,0,No,1
+1334,59,F,19,Alzheimer's,Plasmapheresis,0,No,0
+1335,59,M,8,Alzheimer's,Levodopa,5,No,1
+1336,25,F,9,Alzheimer's,Physical Therapy,1,No,0
+1337,64,M,17,Alzheimer's,Plasmapheresis,0,No,1
+1338,46,M,3,Alzheimer's,Deep Brain Stimulation,1,No,1
+1339,84,F,19,Parkinson's,DMT,0,Yes,0
+1340,53,F,11,Parkinson's,Immunotherapy,5,No,1
+1341,32,M,17,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,1
+1342,35,M,19,Alzheimer's,Biologic,4,Yes,0
+1343,65,F,2,Multiple Sclerosis,DMT,4,No,1
+1344,61,F,8,Parkinson's,Deep Brain Stimulation,0,Yes,0
+1345,38,M,19,Parkinson's,Levodopa,4,No,1
+1346,84,F,7,Parkinson's,Anticholinesterase Inhibitors,0,No,0
+1347,54,F,17,Alzheimer's,Corticosteroids,0,No,0
+1348,59,F,6,Alzheimer's,Biologic,3,No,0
+1349,45,M,19,Parkinson's,Plasmapheresis,3,Yes,0
+1350,61,M,6,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,0
+1351,29,M,2,Multiple Sclerosis,Plasmapheresis,1,No,1
+1352,43,F,6,Parkinson's,Corticosteroids,3,Yes,1
+1353,83,F,5,Multiple Sclerosis,DMT,0,Yes,0
+1354,38,M,19,Parkinson's,Physical Therapy,5,Yes,1
+1355,50,M,20,Multiple Sclerosis,Deep Brain Stimulation,5,No,1
+1356,28,M,4,Parkinson's,Steroid,2,Yes,1
+1357,49,F,17,Multiple Sclerosis,Immunotherapy,3,Yes,0
+1358,69,M,11,Alzheimer's,Steroid,5,Yes,0
+1359,66,M,4,Parkinson's,Physical Therapy,3,No,1
+1360,49,F,13,Parkinson's,Corticosteroids,2,Yes,0
+1361,42,F,20,Multiple Sclerosis,Steroid,5,Yes,0
+1362,64,F,17,Parkinson's,Levodopa,0,No,1
+1363,32,M,9,Parkinson's,Deep Brain Stimulation,1,Yes,0
+1364,63,F,4,Parkinson's,Levodopa,3,No,0
+1365,64,F,14,Alzheimer's,Biologic,5,No,0
+1366,38,M,19,Alzheimer's,Physical Therapy,5,No,0
+1367,56,F,3,Multiple Sclerosis,Biologic,2,No,0
+1368,75,M,14,Alzheimer's,Biologic,0,No,1
+1369,62,M,8,Multiple Sclerosis,Biologic,4,No,0
+1370,57,F,1,Alzheimer's,DMT,5,Yes,0
+1371,47,F,10,Multiple Sclerosis,DMT,1,No,1
+1372,39,F,18,Alzheimer's,Physical Therapy,2,Yes,1
+1373,57,F,16,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,0
+1374,49,F,8,Multiple Sclerosis,Steroid,5,No,1
+1375,41,F,1,Parkinson's,DMT,2,Yes,0
+1376,57,M,12,Parkinson's,Plasmapheresis,2,Yes,1
+1377,71,M,8,Alzheimer's,Levodopa,3,Yes,0
+1378,79,F,16,Multiple Sclerosis,DMT,5,No,1
+1379,26,M,18,Parkinson's,Corticosteroids,4,Yes,0
+1380,38,F,4,Multiple Sclerosis,Biologic,1,Yes,1
+1381,77,M,6,Parkinson's,DMT,0,No,0
+1382,64,M,12,Multiple Sclerosis,Physical Therapy,0,Yes,0
+1383,64,M,9,Alzheimer's,Levodopa,4,Yes,0
+1384,75,F,15,Multiple Sclerosis,Levodopa,2,Yes,1
+1385,63,M,16,Parkinson's,Anticholinesterase Inhibitors,2,No,1
+1386,75,F,12,Alzheimer's,Immunotherapy,2,Yes,0
+1387,30,M,14,Multiple Sclerosis,Immunotherapy,5,Yes,0
+1388,30,M,13,Parkinson's,Steroid,2,No,0
+1389,27,M,2,Alzheimer's,Plasmapheresis,2,No,0
+1390,31,M,3,Multiple Sclerosis,Deep Brain Stimulation,5,No,1
+1391,75,M,10,Parkinson's,Physical Therapy,5,Yes,1
+1392,32,F,9,Multiple Sclerosis,Corticosteroids,4,No,1
+1393,66,F,20,Multiple Sclerosis,DMT,3,No,0
+1394,76,M,8,Alzheimer's,Physical Therapy,5,No,0
+1395,39,M,10,Alzheimer's,Plasmapheresis,1,Yes,1
+1396,71,M,19,Parkinson's,Immunotherapy,2,No,1
+1397,53,M,3,Alzheimer's,Physical Therapy,3,No,1
+1398,57,F,5,Parkinson's,DMT,0,No,1
+1399,76,M,3,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+1400,54,F,16,Multiple Sclerosis,Steroid,3,No,0
+1401,63,M,17,Parkinson's,Anticholinesterase Inhibitors,5,Yes,0
+1402,51,F,15,Multiple Sclerosis,Immunotherapy,2,Yes,1
+1403,60,M,3,Alzheimer's,Biologic,2,No,0
+1404,53,M,12,Multiple Sclerosis,Immunotherapy,2,No,1
+1405,62,F,9,Alzheimer's,Steroid,3,No,1
+1406,81,M,12,Parkinson's,DMT,2,Yes,1
+1407,57,M,15,Parkinson's,Plasmapheresis,5,Yes,1
+1408,61,M,2,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1409,51,F,18,Multiple Sclerosis,Anticholinesterase Inhibitors,2,Yes,0
+1410,79,M,20,Alzheimer's,Immunotherapy,0,No,0
+1411,57,M,12,Alzheimer's,Plasmapheresis,0,No,0
+1412,28,F,4,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,1
+1413,46,F,16,Multiple Sclerosis,Immunotherapy,2,No,0
+1414,26,F,16,Parkinson's,Steroid,2,Yes,1
+1415,34,M,1,Parkinson's,Anticholinesterase Inhibitors,3,No,0
+1416,29,M,2,Parkinson's,Immunotherapy,3,Yes,1
+1417,83,M,3,Multiple Sclerosis,DMT,2,Yes,1
+1418,34,F,20,Multiple Sclerosis,Steroid,1,No,0
+1419,57,M,17,Multiple Sclerosis,Plasmapheresis,2,Yes,1
+1420,78,M,20,Parkinson's,Plasmapheresis,5,Yes,0
+1421,62,F,1,Multiple Sclerosis,Deep Brain Stimulation,3,No,0
+1422,37,F,20,Alzheimer's,Physical Therapy,2,Yes,0
+1423,55,F,6,Multiple Sclerosis,Biologic,3,Yes,1
+1424,71,F,15,Multiple Sclerosis,DMT,2,No,1
+1425,60,F,14,Multiple Sclerosis,Steroid,4,Yes,1
+1426,69,M,20,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,1
+1427,48,F,15,Multiple Sclerosis,Plasmapheresis,1,No,0
+1428,76,M,14,Alzheimer's,DMT,4,Yes,1
+1429,80,M,5,Alzheimer's,Steroid,5,No,0
+1430,39,F,6,Multiple Sclerosis,Steroid,2,Yes,0
+1431,53,F,17,Parkinson's,Anticholinesterase Inhibitors,5,Yes,1
+1432,32,F,11,Multiple Sclerosis,Steroid,3,No,1
+1433,29,M,16,Multiple Sclerosis,Corticosteroids,4,No,0
+1434,53,F,12,Multiple Sclerosis,DMT,5,Yes,1
+1435,71,F,15,Parkinson's,Immunotherapy,1,No,0
+1436,28,F,4,Parkinson's,Plasmapheresis,3,Yes,1
+1437,36,F,18,Parkinson's,Plasmapheresis,4,No,1
+1438,69,F,3,Alzheimer's,Immunotherapy,5,Yes,0
+1439,26,M,8,Parkinson's,DMT,4,Yes,0
+1440,51,M,3,Alzheimer's,Biologic,4,Yes,0
+1441,55,M,8,Alzheimer's,DMT,5,Yes,1
+1442,75,F,18,Parkinson's,Levodopa,0,Yes,1
+1443,75,F,10,Parkinson's,Steroid,2,No,1
+1444,60,F,20,Parkinson's,Physical Therapy,3,No,0
+1445,60,M,17,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,0
+1446,50,F,8,Multiple Sclerosis,Corticosteroids,3,Yes,1
+1447,67,F,11,Parkinson's,Physical Therapy,4,No,0
+1448,51,F,5,Parkinson's,Immunotherapy,5,No,1
+1449,29,M,13,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+1450,44,F,5,Alzheimer's,Anticholinesterase Inhibitors,1,No,1
+1451,35,M,13,Alzheimer's,Anticholinesterase Inhibitors,3,No,1
+1452,34,F,6,Multiple Sclerosis,Plasmapheresis,5,Yes,1
+1453,64,M,5,Parkinson's,Corticosteroids,2,Yes,0
+1454,62,M,9,Alzheimer's,Plasmapheresis,2,No,0
+1455,30,M,16,Multiple Sclerosis,Steroid,0,No,1
+1456,32,F,2,Parkinson's,Levodopa,5,No,1
+1457,47,F,1,Alzheimer's,Deep Brain Stimulation,3,No,1
+1458,71,M,8,Parkinson's,Corticosteroids,4,No,1
+1459,50,M,19,Parkinson's,Physical Therapy,2,No,1
+1460,70,F,11,Alzheimer's,Steroid,2,No,1
+1461,67,F,12,Alzheimer's,DMT,1,No,0
+1462,36,M,12,Alzheimer's,Immunotherapy,0,No,0
+1463,50,F,7,Parkinson's,Levodopa,2,Yes,0
+1464,37,F,13,Parkinson's,Steroid,2,No,0
+1465,64,F,8,Multiple Sclerosis,DMT,4,No,1
+1466,42,F,9,Parkinson's,Levodopa,4,Yes,1
+1467,49,M,7,Alzheimer's,DMT,1,Yes,1
+1468,57,F,15,Parkinson's,Corticosteroids,5,Yes,0
+1469,71,F,2,Multiple Sclerosis,DMT,1,No,0
+1470,64,M,20,Multiple Sclerosis,Levodopa,1,No,1
+1471,84,M,12,Alzheimer's,DMT,4,No,0
+1472,67,F,1,Alzheimer's,Physical Therapy,5,No,0
+1473,36,F,8,Multiple Sclerosis,Steroid,4,Yes,1
+1474,68,F,5,Multiple Sclerosis,Levodopa,0,No,1
+1475,60,F,15,Multiple Sclerosis,Physical Therapy,3,No,1
+1476,72,M,1,Alzheimer's,DMT,3,Yes,0
+1477,28,M,1,Multiple Sclerosis,DMT,0,No,1
+1478,29,M,10,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,1
+1479,80,F,10,Alzheimer's,Levodopa,5,No,1
+1480,61,F,15,Parkinson's,Corticosteroids,4,No,0
+1481,32,F,17,Parkinson's,DMT,3,Yes,0
+1482,66,F,6,Multiple Sclerosis,Immunotherapy,5,Yes,1
+1483,73,M,3,Parkinson's,Plasmapheresis,4,Yes,1
+1484,52,M,13,Parkinson's,Deep Brain Stimulation,5,Yes,0
+1485,55,F,16,Parkinson's,Plasmapheresis,0,No,0
+1486,82,M,8,Parkinson's,Corticosteroids,1,No,1
+1487,33,F,15,Multiple Sclerosis,Steroid,0,No,0
+1488,78,F,17,Parkinson's,Biologic,3,Yes,1
+1489,75,M,17,Parkinson's,Immunotherapy,4,Yes,1
+1490,53,F,13,Alzheimer's,Biologic,5,Yes,0
+1491,38,F,17,Multiple Sclerosis,DMT,3,No,1
+1492,64,M,6,Alzheimer's,Steroid,3,No,1
+1493,65,F,17,Alzheimer's,Physical Therapy,1,Yes,0
+1494,46,F,16,Multiple Sclerosis,DMT,3,Yes,1
+1495,35,M,14,Parkinson's,Biologic,1,No,0
+1496,47,F,13,Alzheimer's,DMT,4,No,1
+1497,25,M,6,Multiple Sclerosis,Deep Brain Stimulation,4,No,1
+1498,70,F,3,Parkinson's,Anticholinesterase Inhibitors,5,Yes,0
+1499,61,M,14,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,0
+1500,45,M,14,Alzheimer's,Steroid,0,Yes,0
+1501,50,M,15,Parkinson's,Physical Therapy,4,Yes,0
+1502,70,F,8,Parkinson's,Deep Brain Stimulation,5,No,0
+1503,60,M,15,Multiple Sclerosis,Levodopa,0,No,0
+1504,78,M,13,Parkinson's,Physical Therapy,4,No,1
+1505,47,M,17,Alzheimer's,Biologic,4,Yes,0
+1506,81,M,3,Alzheimer's,Deep Brain Stimulation,5,No,1
+1507,25,M,6,Alzheimer's,Anticholinesterase Inhibitors,5,No,0
+1508,78,F,5,Multiple Sclerosis,Physical Therapy,2,No,1
+1509,79,F,17,Parkinson's,DMT,3,No,1
+1510,75,F,2,Parkinson's,Anticholinesterase Inhibitors,3,No,0
+1511,64,F,15,Parkinson's,DMT,0,Yes,1
+1512,39,F,5,Alzheimer's,Deep Brain Stimulation,3,No,1
+1513,45,F,20,Parkinson's,Immunotherapy,0,No,1
+1514,71,F,6,Alzheimer's,Immunotherapy,4,Yes,0
+1515,33,M,6,Parkinson's,Biologic,2,Yes,0
+1516,77,F,18,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+1517,33,M,18,Parkinson's,DMT,4,No,0
+1518,34,M,4,Multiple Sclerosis,Corticosteroids,5,No,0
+1519,76,F,17,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,1
+1520,81,M,14,Alzheimer's,Levodopa,1,Yes,1
+1521,77,M,14,Alzheimer's,Biologic,3,No,0
+1522,50,M,13,Parkinson's,Plasmapheresis,5,Yes,0
+1523,65,M,7,Parkinson's,Plasmapheresis,0,No,0
+1524,59,F,12,Multiple Sclerosis,DMT,2,No,1
+1525,76,F,15,Parkinson's,Immunotherapy,3,No,0
+1526,49,F,19,Alzheimer's,Physical Therapy,4,Yes,0
+1527,50,F,11,Alzheimer's,Levodopa,5,No,0
+1528,35,F,15,Alzheimer's,Plasmapheresis,2,No,1
+1529,62,F,12,Alzheimer's,DMT,0,Yes,1
+1530,26,F,3,Alzheimer's,DMT,0,No,1
+1531,31,F,17,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,0
+1532,42,F,3,Multiple Sclerosis,Immunotherapy,3,No,0
+1533,51,F,19,Alzheimer's,Anticholinesterase Inhibitors,4,Yes,1
+1534,58,M,20,Parkinson's,Physical Therapy,2,Yes,0
+1535,51,F,4,Alzheimer's,Deep Brain Stimulation,0,Yes,0
+1536,41,M,3,Multiple Sclerosis,Plasmapheresis,2,No,0
+1537,67,M,16,Alzheimer's,Physical Therapy,4,Yes,1
+1538,83,M,12,Multiple Sclerosis,Biologic,2,Yes,0
+1539,68,M,8,Multiple Sclerosis,Immunotherapy,3,No,0
+1540,83,F,17,Alzheimer's,Plasmapheresis,1,Yes,1
+1541,75,M,7,Alzheimer's,DMT,2,No,0
+1542,78,F,11,Parkinson's,Plasmapheresis,5,No,1
+1543,48,F,18,Multiple Sclerosis,Corticosteroids,1,Yes,0
+1544,49,M,1,Parkinson's,Steroid,4,Yes,1
+1545,31,F,3,Alzheimer's,Steroid,1,No,1
+1546,76,M,4,Multiple Sclerosis,Plasmapheresis,2,Yes,0
+1547,30,M,13,Parkinson's,Corticosteroids,2,Yes,0
+1548,77,F,6,Parkinson's,Plasmapheresis,5,Yes,1
+1549,48,F,14,Parkinson's,Steroid,0,Yes,0
+1550,57,M,5,Alzheimer's,Deep Brain Stimulation,5,No,1
+1551,73,F,16,Alzheimer's,Biologic,2,No,0
+1552,53,F,15,Alzheimer's,Steroid,1,Yes,0
+1553,67,F,15,Multiple Sclerosis,Biologic,5,No,0
+1554,46,M,4,Alzheimer's,DMT,5,Yes,0
+1555,50,M,8,Multiple Sclerosis,Biologic,0,Yes,1
+1556,52,F,16,Parkinson's,Deep Brain Stimulation,2,Yes,1
+1557,74,F,16,Parkinson's,Corticosteroids,2,Yes,0
+1558,45,F,4,Alzheimer's,Biologic,4,No,0
+1559,73,F,13,Parkinson's,Physical Therapy,0,Yes,0
+1560,31,F,13,Alzheimer's,Anticholinesterase Inhibitors,4,No,0
+1561,41,M,2,Multiple Sclerosis,Steroid,4,Yes,0
+1562,44,F,3,Parkinson's,Corticosteroids,4,No,1
+1563,65,M,8,Alzheimer's,Levodopa,3,No,1
+1564,73,F,15,Parkinson's,DMT,4,No,0
+1565,44,M,11,Parkinson's,Anticholinesterase Inhibitors,5,No,1
+1566,78,F,9,Alzheimer's,Physical Therapy,1,Yes,1
+1567,46,M,7,Parkinson's,Immunotherapy,5,No,0
+1568,52,F,13,Parkinson's,Deep Brain Stimulation,5,Yes,1
+1569,64,M,2,Parkinson's,Plasmapheresis,2,No,1
+1570,73,M,8,Parkinson's,Anticholinesterase Inhibitors,3,No,1
+1571,31,M,7,Multiple Sclerosis,Corticosteroids,4,No,1
+1572,25,M,12,Parkinson's,Corticosteroids,2,Yes,0
+1573,56,M,19,Parkinson's,Corticosteroids,0,No,1
+1574,37,M,7,Alzheimer's,DMT,0,Yes,1
+1575,54,F,10,Multiple Sclerosis,Biologic,2,Yes,1
+1576,47,M,16,Alzheimer's,Steroid,1,Yes,0
+1577,75,F,3,Alzheimer's,Immunotherapy,2,No,1
+1578,83,F,10,Alzheimer's,Plasmapheresis,2,No,1
+1579,80,F,6,Multiple Sclerosis,Corticosteroids,3,No,1
+1580,43,F,18,Alzheimer's,Plasmapheresis,0,No,0
+1581,56,F,18,Alzheimer's,Levodopa,0,No,0
+1582,54,M,5,Alzheimer's,DMT,4,No,0
+1583,53,M,7,Parkinson's,Corticosteroids,5,No,0
+1584,73,M,2,Alzheimer's,Levodopa,2,Yes,0
+1585,69,F,11,Multiple Sclerosis,Immunotherapy,2,No,1
+1586,53,M,13,Multiple Sclerosis,Immunotherapy,1,Yes,0
+1587,54,M,5,Parkinson's,Steroid,0,Yes,1
+1588,40,M,6,Multiple Sclerosis,Physical Therapy,1,No,0
+1589,64,M,14,Multiple Sclerosis,Steroid,3,No,0
+1590,43,M,12,Parkinson's,Biologic,4,Yes,0
+1591,42,F,4,Alzheimer's,Plasmapheresis,1,Yes,1
+1592,25,M,6,Parkinson's,Deep Brain Stimulation,0,No,1
+1593,38,F,10,Alzheimer's,Immunotherapy,3,Yes,1
+1594,75,F,18,Alzheimer's,Deep Brain Stimulation,2,Yes,0
+1595,71,F,15,Multiple Sclerosis,DMT,3,Yes,0
+1596,74,F,8,Parkinson's,Anticholinesterase Inhibitors,5,Yes,0
+1597,26,F,9,Multiple Sclerosis,Corticosteroids,1,No,0
+1598,78,M,5,Multiple Sclerosis,DMT,0,No,0
+1599,52,M,10,Alzheimer's,Immunotherapy,1,Yes,0
+1600,73,M,20,Multiple Sclerosis,Levodopa,2,Yes,1
+1601,74,F,6,Parkinson's,Plasmapheresis,2,Yes,1
+1602,54,M,16,Multiple Sclerosis,Deep Brain Stimulation,0,No,0
+1603,62,M,3,Multiple Sclerosis,Steroid,5,No,1
+1604,75,F,10,Alzheimer's,Anticholinesterase Inhibitors,4,Yes,1
+1605,28,F,11,Parkinson's,Physical Therapy,3,Yes,1
+1606,25,F,11,Multiple Sclerosis,DMT,3,Yes,0
+1607,32,F,17,Alzheimer's,Physical Therapy,2,No,0
+1608,53,M,4,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,0
+1609,79,F,4,Parkinson's,Deep Brain Stimulation,1,Yes,0
+1610,63,F,17,Multiple Sclerosis,Corticosteroids,5,Yes,1
+1611,27,M,9,Multiple Sclerosis,Levodopa,4,Yes,0
+1612,56,M,19,Alzheimer's,Levodopa,1,Yes,0
+1613,34,F,5,Multiple Sclerosis,Biologic,3,No,0
+1614,34,M,6,Alzheimer's,Steroid,1,No,1
+1615,43,F,3,Parkinson's,Immunotherapy,4,No,1
+1616,70,F,1,Multiple Sclerosis,Immunotherapy,3,Yes,1
+1617,58,M,20,Parkinson's,Deep Brain Stimulation,1,No,1
+1618,84,M,16,Parkinson's,DMT,3,Yes,1
+1619,57,F,11,Multiple Sclerosis,Plasmapheresis,2,No,0
+1620,47,F,13,Alzheimer's,Immunotherapy,2,No,1
+1621,79,F,10,Parkinson's,Immunotherapy,5,Yes,1
+1622,52,M,3,Parkinson's,DMT,2,Yes,0
+1623,56,F,9,Multiple Sclerosis,Steroid,1,Yes,0
+1624,74,F,12,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+1625,31,F,14,Multiple Sclerosis,Levodopa,3,Yes,1
+1626,53,F,1,Multiple Sclerosis,Corticosteroids,0,No,0
+1627,32,F,18,Multiple Sclerosis,Corticosteroids,2,No,1
+1628,25,M,17,Multiple Sclerosis,Corticosteroids,2,No,0
+1629,81,F,9,Alzheimer's,DMT,0,Yes,1
+1630,79,F,9,Parkinson's,Corticosteroids,0,Yes,1
+1631,27,F,10,Alzheimer's,Deep Brain Stimulation,1,Yes,1
+1632,48,F,19,Alzheimer's,Biologic,3,No,1
+1633,47,M,15,Multiple Sclerosis,DMT,2,No,0
+1634,83,M,5,Parkinson's,DMT,4,Yes,0
+1635,32,M,15,Alzheimer's,Levodopa,1,No,1
+1636,78,F,20,Multiple Sclerosis,Corticosteroids,1,No,0
+1637,81,F,2,Multiple Sclerosis,Physical Therapy,4,No,1
+1638,71,M,13,Parkinson's,Anticholinesterase Inhibitors,4,Yes,0
+1639,61,M,16,Alzheimer's,Biologic,5,No,0
+1640,27,M,15,Alzheimer's,DMT,4,No,1
+1641,75,F,10,Alzheimer's,Biologic,0,Yes,1
+1642,57,F,14,Multiple Sclerosis,DMT,2,Yes,0
+1643,52,M,10,Parkinson's,Steroid,5,Yes,1
+1644,71,M,14,Parkinson's,Levodopa,0,Yes,0
+1645,32,M,9,Alzheimer's,Deep Brain Stimulation,5,Yes,0
+1646,58,F,14,Multiple Sclerosis,Steroid,2,Yes,0
+1647,59,F,3,Alzheimer's,Plasmapheresis,5,No,1
+1648,56,F,20,Parkinson's,Corticosteroids,0,No,1
+1649,48,M,16,Multiple Sclerosis,Plasmapheresis,3,No,0
+1650,38,M,2,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+1651,56,F,10,Alzheimer's,Physical Therapy,1,Yes,1
+1652,80,M,3,Multiple Sclerosis,Deep Brain Stimulation,2,No,0
+1653,70,F,11,Parkinson's,Steroid,2,Yes,1
+1654,67,M,11,Multiple Sclerosis,Biologic,2,Yes,1
+1655,40,M,13,Alzheimer's,Biologic,3,No,0
+1656,28,M,7,Alzheimer's,Anticholinesterase Inhibitors,0,No,1
+1657,76,M,17,Alzheimer's,DMT,1,Yes,0
+1658,61,F,2,Alzheimer's,Biologic,0,Yes,1
+1659,78,M,12,Parkinson's,Corticosteroids,5,Yes,1
+1660,45,F,10,Parkinson's,Physical Therapy,5,Yes,0
+1661,38,F,18,Alzheimer's,Levodopa,5,No,0
+1662,55,F,11,Parkinson's,Corticosteroids,0,Yes,1
+1663,79,M,16,Parkinson's,Physical Therapy,4,No,0
+1664,72,F,17,Parkinson's,Anticholinesterase Inhibitors,3,Yes,0
+1665,42,F,19,Alzheimer's,Corticosteroids,4,Yes,1
+1666,31,F,18,Multiple Sclerosis,Levodopa,5,Yes,0
+1667,34,M,3,Multiple Sclerosis,Levodopa,3,No,1
+1668,31,M,16,Multiple Sclerosis,Immunotherapy,0,Yes,1
+1669,57,F,6,Alzheimer's,DMT,5,No,0
+1670,47,M,12,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+1671,45,F,11,Parkinson's,Corticosteroids,3,No,0
+1672,43,F,15,Alzheimer's,Deep Brain Stimulation,0,Yes,1
+1673,72,M,15,Alzheimer's,Deep Brain Stimulation,0,No,0
+1674,43,F,16,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,0
+1675,60,M,10,Multiple Sclerosis,Corticosteroids,4,Yes,1
+1676,53,M,12,Alzheimer's,Steroid,4,Yes,0
+1677,84,F,13,Multiple Sclerosis,Steroid,4,No,0
+1678,42,M,4,Parkinson's,DMT,2,No,0
+1679,26,M,7,Alzheimer's,Corticosteroids,1,Yes,1
+1680,25,F,2,Alzheimer's,Levodopa,5,No,1
+1681,71,F,15,Parkinson's,Biologic,5,No,0
+1682,29,M,8,Parkinson's,Deep Brain Stimulation,5,No,0
+1683,44,M,7,Parkinson's,Corticosteroids,4,Yes,1
+1684,35,F,15,Multiple Sclerosis,Corticosteroids,4,No,1
+1685,66,M,14,Alzheimer's,Biologic,1,Yes,1
+1686,26,M,8,Multiple Sclerosis,Biologic,0,Yes,0
+1687,27,M,12,Parkinson's,Physical Therapy,4,Yes,1
+1688,47,M,13,Multiple Sclerosis,Immunotherapy,5,No,0
+1689,79,M,11,Parkinson's,DMT,0,Yes,1
+1690,36,M,17,Multiple Sclerosis,Deep Brain Stimulation,4,No,0
+1691,44,M,17,Multiple Sclerosis,Biologic,3,Yes,1
+1692,29,F,4,Parkinson's,Steroid,2,No,0
+1693,61,F,8,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,1
+1694,62,F,5,Alzheimer's,Steroid,3,No,1
+1695,54,F,16,Multiple Sclerosis,Physical Therapy,1,Yes,0
+1696,33,F,4,Multiple Sclerosis,Physical Therapy,3,No,1
+1697,58,M,15,Alzheimer's,Biologic,1,No,1
+1698,77,M,12,Parkinson's,Physical Therapy,4,Yes,1
+1699,68,M,5,Alzheimer's,Levodopa,1,Yes,1
+1700,59,M,16,Multiple Sclerosis,Plasmapheresis,3,No,0
+1701,76,F,14,Parkinson's,Corticosteroids,2,Yes,0
+1702,82,M,10,Multiple Sclerosis,Corticosteroids,0,Yes,1
+1703,46,M,7,Multiple Sclerosis,Biologic,0,Yes,0
+1704,68,F,13,Alzheimer's,Physical Therapy,2,No,0
+1705,48,M,20,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,0
+1706,41,M,5,Parkinson's,Levodopa,0,No,0
+1707,34,F,3,Parkinson's,DMT,4,Yes,0
+1708,54,M,15,Parkinson's,Physical Therapy,5,Yes,1
+1709,80,M,4,Multiple Sclerosis,Levodopa,4,No,0
+1710,83,M,15,Alzheimer's,Immunotherapy,3,Yes,1
+1711,70,M,14,Alzheimer's,DMT,3,Yes,0
+1712,47,M,20,Alzheimer's,Corticosteroids,5,Yes,1
+1713,56,F,19,Parkinson's,Immunotherapy,5,Yes,1
+1714,41,F,13,Alzheimer's,Biologic,5,No,1
+1715,74,F,10,Alzheimer's,Deep Brain Stimulation,5,No,0
+1716,75,F,5,Alzheimer's,Biologic,1,No,0
+1717,41,F,20,Parkinson's,Anticholinesterase Inhibitors,5,No,1
+1718,38,F,20,Alzheimer's,Levodopa,5,No,1
+1719,33,M,6,Parkinson's,Deep Brain Stimulation,3,No,0
+1720,64,F,4,Alzheimer's,DMT,4,No,0
+1721,26,F,2,Alzheimer's,DMT,3,Yes,1
+1722,69,M,16,Alzheimer's,Immunotherapy,0,No,0
+1723,49,M,18,Parkinson's,Anticholinesterase Inhibitors,1,No,0
+1724,63,F,5,Parkinson's,Corticosteroids,1,No,0
+1725,33,M,4,Alzheimer's,Physical Therapy,4,Yes,0
+1726,78,F,13,Multiple Sclerosis,Physical Therapy,5,No,0
+1727,46,M,19,Parkinson's,Deep Brain Stimulation,3,No,0
+1728,67,F,2,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+1729,70,M,13,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,1
+1730,28,M,11,Multiple Sclerosis,DMT,5,No,1
+1731,50,F,4,Alzheimer's,Corticosteroids,5,Yes,1
+1732,82,F,20,Parkinson's,Levodopa,2,Yes,1
+1733,53,F,20,Parkinson's,Corticosteroids,3,Yes,1
+1734,69,F,15,Alzheimer's,Steroid,4,Yes,0
+1735,58,F,4,Alzheimer's,Anticholinesterase Inhibitors,3,No,0
+1736,47,M,9,Multiple Sclerosis,Biologic,1,Yes,1
+1737,61,F,7,Multiple Sclerosis,Plasmapheresis,0,Yes,1
+1738,35,F,19,Parkinson's,Anticholinesterase Inhibitors,4,No,1
+1739,30,M,19,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,0
+1740,42,M,6,Multiple Sclerosis,Biologic,0,Yes,0
+1741,45,F,6,Parkinson's,Deep Brain Stimulation,0,Yes,0
+1742,66,M,20,Parkinson's,Immunotherapy,1,Yes,0
+1743,60,M,15,Parkinson's,Plasmapheresis,1,Yes,1
+1744,65,F,15,Parkinson's,Plasmapheresis,1,Yes,1
+1745,62,M,20,Alzheimer's,DMT,4,No,1
+1746,58,M,9,Parkinson's,Anticholinesterase Inhibitors,3,No,1
+1747,41,F,4,Parkinson's,DMT,0,No,0
+1748,61,F,18,Parkinson's,Physical Therapy,3,No,0
+1749,49,M,18,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1750,62,M,5,Parkinson's,Steroid,1,Yes,0
+1751,82,F,20,Alzheimer's,Steroid,3,Yes,0
+1752,36,M,11,Alzheimer's,Physical Therapy,0,No,0
+1753,47,M,5,Parkinson's,Immunotherapy,0,No,0
+1754,77,M,4,Alzheimer's,Steroid,5,Yes,1
+1755,66,F,12,Multiple Sclerosis,Deep Brain Stimulation,2,Yes,0
+1756,46,M,2,Parkinson's,Steroid,4,No,1
+1757,45,M,13,Alzheimer's,Physical Therapy,3,No,0
+1758,51,F,10,Alzheimer's,Biologic,4,No,0
+1759,81,M,9,Parkinson's,DMT,4,No,1
+1760,55,M,10,Alzheimer's,Levodopa,4,Yes,1
+1761,30,F,7,Parkinson's,Deep Brain Stimulation,5,No,0
+1762,51,F,4,Alzheimer's,DMT,4,No,0
+1763,64,F,19,Multiple Sclerosis,Plasmapheresis,5,Yes,1
+1764,58,F,10,Alzheimer's,Corticosteroids,0,Yes,0
+1765,36,M,3,Alzheimer's,Steroid,3,Yes,0
+1766,69,M,19,Parkinson's,Steroid,5,No,1
+1767,81,F,2,Alzheimer's,Immunotherapy,2,No,0
+1768,77,F,20,Parkinson's,DMT,4,No,0
+1769,31,M,10,Multiple Sclerosis,Corticosteroids,2,No,0
+1770,34,F,2,Parkinson's,Steroid,0,Yes,0
+1771,69,M,2,Parkinson's,Plasmapheresis,0,Yes,0
+1772,41,F,17,Alzheimer's,Immunotherapy,1,No,1
+1773,50,M,16,Multiple Sclerosis,DMT,4,No,0
+1774,45,F,16,Parkinson's,Immunotherapy,1,No,1
+1775,52,F,14,Alzheimer's,DMT,2,Yes,1
+1776,82,M,7,Alzheimer's,Anticholinesterase Inhibitors,3,No,0
+1777,70,F,11,Parkinson's,Anticholinesterase Inhibitors,1,Yes,1
+1778,26,M,1,Alzheimer's,Physical Therapy,0,No,0
+1779,84,M,11,Parkinson's,Deep Brain Stimulation,4,Yes,1
+1780,78,M,4,Parkinson's,Immunotherapy,2,Yes,1
+1781,67,M,7,Parkinson's,Physical Therapy,5,No,1
+1782,25,M,15,Multiple Sclerosis,Immunotherapy,0,Yes,0
+1783,75,F,18,Parkinson's,Steroid,5,Yes,1
+1784,77,F,12,Alzheimer's,Levodopa,3,No,1
+1785,60,M,17,Multiple Sclerosis,Immunotherapy,4,Yes,1
+1786,75,F,1,Alzheimer's,Steroid,3,No,0
+1787,50,M,11,Multiple Sclerosis,Corticosteroids,3,Yes,0
+1788,53,F,1,Multiple Sclerosis,Anticholinesterase Inhibitors,4,Yes,1
+1789,45,F,15,Multiple Sclerosis,Physical Therapy,4,Yes,1
+1790,35,F,10,Multiple Sclerosis,Levodopa,5,Yes,1
+1791,64,F,7,Alzheimer's,Plasmapheresis,3,No,1
+1792,35,M,2,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+1793,60,M,10,Alzheimer's,Physical Therapy,5,No,0
+1794,73,F,4,Parkinson's,Levodopa,4,Yes,0
+1795,83,F,12,Alzheimer's,Plasmapheresis,0,Yes,1
+1796,63,M,19,Multiple Sclerosis,Biologic,5,No,0
+1797,64,F,11,Multiple Sclerosis,Steroid,1,No,1
+1798,59,M,8,Parkinson's,Biologic,2,No,1
+1799,78,M,18,Parkinson's,Steroid,5,No,1
+1800,58,M,11,Alzheimer's,DMT,4,Yes,0
+1801,79,F,11,Parkinson's,Deep Brain Stimulation,4,No,1
+1802,71,M,13,Alzheimer's,Levodopa,2,Yes,0
+1803,48,F,3,Parkinson's,Biologic,1,No,1
+1804,78,M,12,Parkinson's,Deep Brain Stimulation,5,Yes,0
+1805,46,F,3,Parkinson's,Levodopa,5,No,1
+1806,29,F,10,Multiple Sclerosis,Physical Therapy,3,No,0
+1807,80,F,17,Multiple Sclerosis,DMT,0,Yes,1
+1808,57,M,2,Alzheimer's,Physical Therapy,4,Yes,0
+1809,82,M,17,Parkinson's,Steroid,5,No,1
+1810,60,F,16,Alzheimer's,Deep Brain Stimulation,5,Yes,1
+1811,71,F,2,Parkinson's,Levodopa,5,No,1
+1812,44,F,20,Multiple Sclerosis,Immunotherapy,1,Yes,0
+1813,43,M,6,Multiple Sclerosis,Deep Brain Stimulation,0,No,1
+1814,59,M,10,Parkinson's,Corticosteroids,5,No,1
+1815,76,M,10,Parkinson's,Plasmapheresis,2,No,1
+1816,67,M,8,Multiple Sclerosis,Biologic,4,No,0
+1817,41,F,1,Multiple Sclerosis,Levodopa,3,No,1
+1818,83,F,13,Alzheimer's,Anticholinesterase Inhibitors,2,No,1
+1819,69,M,9,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+1820,67,M,10,Parkinson's,Plasmapheresis,1,No,1
+1821,58,F,15,Alzheimer's,Steroid,0,Yes,0
+1822,33,M,5,Parkinson's,Deep Brain Stimulation,0,Yes,1
+1823,50,M,16,Alzheimer's,Deep Brain Stimulation,4,Yes,0
+1824,26,M,13,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+1825,77,M,20,Multiple Sclerosis,Deep Brain Stimulation,3,No,0
+1826,33,M,18,Parkinson's,Plasmapheresis,1,No,1
+1827,33,M,11,Alzheimer's,Deep Brain Stimulation,4,Yes,1
+1828,64,F,9,Parkinson's,Steroid,1,Yes,0
+1829,41,M,16,Alzheimer's,Biologic,0,Yes,1
+1830,25,M,2,Parkinson's,Corticosteroids,5,Yes,1
+1831,49,F,2,Multiple Sclerosis,Biologic,5,Yes,0
+1832,67,F,12,Multiple Sclerosis,Corticosteroids,3,No,0
+1833,64,F,8,Parkinson's,Immunotherapy,1,Yes,0
+1834,66,M,9,Parkinson's,Biologic,4,No,0
+1835,49,F,12,Parkinson's,Plasmapheresis,3,No,1
+1836,63,M,9,Alzheimer's,DMT,2,No,1
+1837,59,M,10,Parkinson's,Immunotherapy,5,Yes,1
+1838,27,M,2,Parkinson's,Corticosteroids,4,Yes,1
+1839,74,F,16,Alzheimer's,Corticosteroids,1,No,1
+1840,61,F,20,Multiple Sclerosis,Immunotherapy,3,Yes,1
+1841,68,F,7,Parkinson's,Corticosteroids,4,Yes,0
+1842,68,F,2,Parkinson's,Levodopa,3,No,1
+1843,75,F,1,Multiple Sclerosis,DMT,3,No,1
+1844,54,M,19,Multiple Sclerosis,Plasmapheresis,3,No,1
+1845,62,M,4,Alzheimer's,Levodopa,1,No,0
+1846,58,M,2,Parkinson's,Corticosteroids,4,No,0
+1847,36,M,14,Parkinson's,Biologic,0,Yes,1
+1848,43,F,2,Alzheimer's,Levodopa,0,No,0
+1849,61,F,15,Multiple Sclerosis,Biologic,1,Yes,0
+1850,68,M,12,Alzheimer's,Immunotherapy,1,Yes,1
+1851,83,F,5,Multiple Sclerosis,Deep Brain Stimulation,5,No,1
+1852,83,F,20,Alzheimer's,Physical Therapy,3,No,1
+1853,73,M,7,Multiple Sclerosis,Corticosteroids,4,Yes,0
+1854,41,M,10,Alzheimer's,Physical Therapy,4,No,0
+1855,34,F,14,Multiple Sclerosis,DMT,2,Yes,1
+1856,81,F,14,Multiple Sclerosis,Biologic,2,No,0
+1857,79,M,5,Multiple Sclerosis,Levodopa,0,No,0
+1858,73,M,18,Multiple Sclerosis,Physical Therapy,2,Yes,0
+1859,71,M,14,Multiple Sclerosis,Steroid,2,Yes,1
+1860,36,F,2,Parkinson's,Corticosteroids,0,No,1
+1861,40,M,12,Multiple Sclerosis,Physical Therapy,5,No,1
+1862,48,M,6,Parkinson's,Levodopa,0,No,1
+1863,43,F,4,Multiple Sclerosis,Levodopa,2,Yes,1
+1864,32,F,13,Parkinson's,DMT,4,No,0
+1865,55,F,4,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+1866,45,F,14,Alzheimer's,Plasmapheresis,3,No,0
+1867,41,F,16,Multiple Sclerosis,Steroid,3,No,0
+1868,47,M,4,Alzheimer's,Physical Therapy,3,Yes,0
+1869,61,M,1,Alzheimer's,Plasmapheresis,5,Yes,0
+1870,78,F,13,Multiple Sclerosis,Steroid,1,Yes,1
+1871,40,F,4,Alzheimer's,Anticholinesterase Inhibitors,3,No,1
+1872,30,F,20,Multiple Sclerosis,Physical Therapy,4,No,0
+1873,32,F,18,Alzheimer's,Steroid,5,No,1
+1874,49,F,6,Multiple Sclerosis,Plasmapheresis,1,Yes,0
+1875,42,M,3,Multiple Sclerosis,Biologic,1,Yes,0
+1876,49,M,13,Multiple Sclerosis,Levodopa,3,Yes,1
+1877,36,M,16,Parkinson's,Deep Brain Stimulation,2,Yes,1
+1878,39,M,5,Alzheimer's,Immunotherapy,0,No,0
+1879,83,F,4,Parkinson's,Corticosteroids,2,Yes,1
+1880,50,M,8,Alzheimer's,Deep Brain Stimulation,2,Yes,0
+1881,65,F,19,Alzheimer's,Physical Therapy,1,No,0
+1882,69,F,14,Alzheimer's,Physical Therapy,1,Yes,0
+1883,50,F,7,Parkinson's,Steroid,5,No,0
+1884,71,M,14,Alzheimer's,Levodopa,5,No,0
+1885,56,F,6,Parkinson's,Anticholinesterase Inhibitors,1,No,1
+1886,34,M,12,Multiple Sclerosis,DMT,4,No,0
+1887,40,M,16,Alzheimer's,Steroid,4,No,1
+1888,31,F,17,Alzheimer's,DMT,0,Yes,0
+1889,41,F,13,Multiple Sclerosis,Immunotherapy,1,Yes,1
+1890,47,F,14,Multiple Sclerosis,Plasmapheresis,3,No,0
+1891,50,M,7,Alzheimer's,Steroid,5,Yes,1
+1892,45,F,14,Multiple Sclerosis,Immunotherapy,1,No,0
+1893,46,M,15,Parkinson's,Corticosteroids,4,Yes,0
+1894,82,F,12,Parkinson's,Steroid,1,Yes,1
+1895,31,F,17,Alzheimer's,Levodopa,4,Yes,1
+1896,38,M,9,Parkinson's,Levodopa,1,Yes,1
+1897,39,M,15,Parkinson's,Physical Therapy,3,Yes,1
+1898,77,M,12,Alzheimer's,Corticosteroids,0,Yes,1
+1899,31,M,2,Multiple Sclerosis,Physical Therapy,3,Yes,1
+1900,33,M,5,Alzheimer's,DMT,4,No,0
+1901,75,M,13,Parkinson's,Deep Brain Stimulation,5,No,0
+1902,72,F,20,Alzheimer's,Anticholinesterase Inhibitors,5,No,0
+1903,32,F,8,Alzheimer's,Corticosteroids,2,Yes,1
+1904,74,M,14,Parkinson's,Plasmapheresis,3,Yes,1
+1905,83,F,15,Parkinson's,Anticholinesterase Inhibitors,1,No,1
+1906,47,M,11,Alzheimer's,Anticholinesterase Inhibitors,0,No,0
+1907,53,F,1,Parkinson's,Biologic,1,Yes,1
+1908,42,F,3,Parkinson's,Steroid,1,No,0
+1909,55,M,17,Parkinson's,Plasmapheresis,3,No,1
+1910,54,M,19,Parkinson's,Corticosteroids,0,No,1
+1911,76,M,14,Parkinson's,Physical Therapy,2,No,1
+1912,63,F,8,Parkinson's,DMT,1,Yes,0
+1913,59,M,13,Multiple Sclerosis,Steroid,0,No,1
+1914,42,F,20,Alzheimer's,Biologic,2,No,0
+1915,83,M,3,Parkinson's,DMT,1,No,1
+1916,66,F,5,Alzheimer's,Corticosteroids,0,No,1
+1917,63,F,9,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1918,41,M,6,Parkinson's,Anticholinesterase Inhibitors,5,No,1
+1919,38,F,2,Alzheimer's,Biologic,5,No,0
+1920,55,F,13,Parkinson's,DMT,1,No,1
+1921,48,M,5,Parkinson's,Physical Therapy,1,No,0
+1922,59,F,8,Parkinson's,Biologic,0,No,1
+1923,68,M,1,Parkinson's,DMT,5,Yes,1
+1924,84,M,20,Parkinson's,Biologic,1,No,1
+1925,69,M,12,Parkinson's,Physical Therapy,2,No,0
+1926,58,M,11,Parkinson's,Physical Therapy,1,Yes,1
+1927,27,F,7,Multiple Sclerosis,Plasmapheresis,5,No,0
+1928,61,F,15,Multiple Sclerosis,Levodopa,4,Yes,0
+1929,67,F,11,Parkinson's,Anticholinesterase Inhibitors,5,No,1
+1930,64,M,16,Parkinson's,Steroid,2,Yes,0
+1931,50,F,3,Multiple Sclerosis,Steroid,0,Yes,1
+1932,79,F,20,Multiple Sclerosis,Corticosteroids,2,No,0
+1933,47,M,14,Multiple Sclerosis,Immunotherapy,4,Yes,0
+1934,68,M,3,Parkinson's,Corticosteroids,4,No,0
+1935,63,F,1,Alzheimer's,Immunotherapy,1,Yes,0
+1936,39,M,15,Alzheimer's,Biologic,1,Yes,1
+1937,80,M,1,Alzheimer's,Immunotherapy,5,No,0
+1938,73,M,17,Alzheimer's,Levodopa,3,Yes,1
+1939,28,M,2,Parkinson's,Levodopa,2,No,0
+1940,53,F,20,Alzheimer's,Anticholinesterase Inhibitors,5,Yes,1
+1941,46,M,6,Multiple Sclerosis,DMT,3,Yes,1
+1942,49,M,8,Multiple Sclerosis,Steroid,5,No,0
+1943,37,M,16,Alzheimer's,Anticholinesterase Inhibitors,4,No,0
+1944,42,M,19,Multiple Sclerosis,Levodopa,1,Yes,1
+1945,57,M,1,Parkinson's,DMT,1,No,0
+1946,40,M,3,Alzheimer's,Corticosteroids,5,No,0
+1947,69,M,3,Alzheimer's,Steroid,1,Yes,0
+1948,66,M,5,Parkinson's,Plasmapheresis,0,Yes,0
+1949,68,F,12,Multiple Sclerosis,Steroid,5,No,0
+1950,26,M,12,Parkinson's,Biologic,4,Yes,0
+1951,79,F,20,Parkinson's,Deep Brain Stimulation,5,No,0
+1952,59,M,13,Multiple Sclerosis,Steroid,5,No,0
+1953,66,M,20,Parkinson's,Levodopa,1,No,0
+1954,58,M,9,Multiple Sclerosis,Biologic,4,No,1
+1955,54,M,7,Multiple Sclerosis,Physical Therapy,5,No,0
+1956,83,F,4,Parkinson's,Immunotherapy,1,No,0
+1957,79,M,19,Multiple Sclerosis,Corticosteroids,2,Yes,0
+1958,37,M,19,Parkinson's,Plasmapheresis,4,No,0
+1959,37,F,6,Multiple Sclerosis,Corticosteroids,3,Yes,0
+1960,42,F,13,Alzheimer's,Physical Therapy,0,No,1
+1961,56,M,11,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,1
+1962,56,F,13,Multiple Sclerosis,Steroid,4,Yes,0
+1963,59,F,13,Parkinson's,Anticholinesterase Inhibitors,5,Yes,1
+1964,83,F,20,Multiple Sclerosis,Biologic,1,No,0
+1965,63,M,15,Alzheimer's,Plasmapheresis,4,Yes,0
+1966,70,M,13,Alzheimer's,Physical Therapy,0,Yes,1
+1967,76,M,11,Multiple Sclerosis,Deep Brain Stimulation,4,No,1
+1968,53,F,19,Multiple Sclerosis,Corticosteroids,1,Yes,1
+1969,73,M,8,Alzheimer's,Physical Therapy,3,Yes,1
+1970,53,F,20,Parkinson's,Plasmapheresis,2,No,1
+1971,77,M,8,Alzheimer's,Plasmapheresis,3,Yes,0
+1972,68,M,10,Alzheimer's,Deep Brain Stimulation,1,Yes,0
+1973,81,F,16,Multiple Sclerosis,Corticosteroids,1,No,0
+1974,40,M,19,Multiple Sclerosis,Levodopa,0,Yes,1
+1975,80,F,11,Alzheimer's,Plasmapheresis,4,Yes,0
+1976,68,F,13,Parkinson's,Biologic,4,Yes,1
+1977,71,M,9,Alzheimer's,Biologic,3,Yes,0
+1978,81,F,20,Alzheimer's,Immunotherapy,2,No,1
+1979,34,M,19,Parkinson's,Corticosteroids,2,No,1
+1980,54,M,16,Alzheimer's,Physical Therapy,0,No,0
+1981,49,F,7,Alzheimer's,Biologic,1,No,0
+1982,63,M,19,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,0
+1983,44,F,12,Parkinson's,Physical Therapy,4,No,0
+1984,29,M,15,Multiple Sclerosis,Corticosteroids,5,No,1
+1985,25,M,14,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,0
+1986,54,M,11,Parkinson's,Steroid,5,Yes,1
+1987,73,M,10,Parkinson's,DMT,1,Yes,0
+1988,27,M,11,Alzheimer's,Biologic,0,No,0
+1989,69,F,6,Multiple Sclerosis,Biologic,3,Yes,0
+1990,38,F,2,Parkinson's,Immunotherapy,4,Yes,0
+1991,80,F,11,Multiple Sclerosis,Levodopa,5,Yes,0
+1992,54,F,19,Multiple Sclerosis,Immunotherapy,2,No,1
+1993,74,F,6,Parkinson's,Corticosteroids,0,No,0
+1994,28,F,14,Alzheimer's,Immunotherapy,4,No,1
+1995,42,M,20,Multiple Sclerosis,Levodopa,4,No,0
+1996,61,M,6,Parkinson's,Levodopa,2,No,1
+1997,49,F,17,Alzheimer's,Plasmapheresis,2,No,0
+1998,72,F,10,Multiple Sclerosis,Plasmapheresis,2,No,0
+1999,25,M,1,Parkinson's,DMT,5,Yes,0
+2000,77,M,3,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,1
+2001,70,M,8,Parkinson's,Steroid,0,Yes,1
+2002,39,F,8,Parkinson's,Levodopa,2,No,0
+2003,33,F,20,Multiple Sclerosis,Steroid,3,No,0
+2004,39,F,15,Multiple Sclerosis,Biologic,4,Yes,0
+2005,73,M,7,Parkinson's,Anticholinesterase Inhibitors,2,Yes,1
+2006,81,M,11,Alzheimer's,DMT,4,No,0
+2007,48,F,7,Multiple Sclerosis,Corticosteroids,1,No,1
+2008,28,F,4,Parkinson's,Physical Therapy,1,No,0
+2009,36,M,12,Parkinson's,Steroid,2,No,1
+2010,83,M,6,Alzheimer's,Immunotherapy,4,No,1
+2011,82,M,14,Alzheimer's,Levodopa,1,No,1
+2012,61,M,12,Alzheimer's,Steroid,2,No,0
+2013,61,F,11,Multiple Sclerosis,Physical Therapy,4,No,1
+2014,67,M,19,Parkinson's,Levodopa,2,Yes,0
+2015,84,M,5,Parkinson's,Corticosteroids,5,No,1
+2016,30,M,14,Parkinson's,Anticholinesterase Inhibitors,4,No,0
+2017,63,F,16,Alzheimer's,Immunotherapy,1,No,1
+2018,80,F,13,Parkinson's,Steroid,2,Yes,1
+2019,70,M,20,Multiple Sclerosis,Plasmapheresis,1,Yes,0
+2020,48,M,4,Alzheimer's,DMT,2,No,0
+2021,35,M,11,Alzheimer's,Steroid,0,Yes,1
+2022,37,F,17,Alzheimer's,Steroid,1,Yes,1
+2023,58,F,7,Alzheimer's,Physical Therapy,1,Yes,0
+2024,49,F,14,Multiple Sclerosis,Physical Therapy,3,No,1
+2025,31,M,11,Parkinson's,DMT,5,No,1
+2026,76,F,9,Multiple Sclerosis,Steroid,1,No,0
+2027,28,M,13,Parkinson's,Deep Brain Stimulation,4,No,0
+2028,83,M,18,Multiple Sclerosis,Corticosteroids,2,No,0
+2029,32,M,11,Alzheimer's,Physical Therapy,0,No,1
+2030,44,F,15,Alzheimer's,Physical Therapy,4,No,1
+2031,53,M,19,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,1
+2032,78,F,1,Multiple Sclerosis,Levodopa,4,No,0
+2033,77,F,4,Parkinson's,Steroid,4,No,1
+2034,75,M,14,Multiple Sclerosis,DMT,0,No,0
+2035,69,M,14,Multiple Sclerosis,Physical Therapy,3,No,0
+2036,70,F,3,Parkinson's,DMT,5,No,1
+2037,34,M,17,Parkinson's,DMT,1,No,0
+2038,67,F,3,Parkinson's,Corticosteroids,4,No,1
+2039,58,M,16,Multiple Sclerosis,Plasmapheresis,1,No,0
+2040,81,F,14,Parkinson's,Physical Therapy,1,Yes,0
+2041,50,F,20,Alzheimer's,Immunotherapy,4,Yes,0
+2042,65,F,13,Alzheimer's,Levodopa,3,No,1
+2043,73,F,15,Alzheimer's,DMT,1,No,0
+2044,82,M,14,Multiple Sclerosis,Physical Therapy,2,Yes,1
+2045,27,M,19,Alzheimer's,Levodopa,1,No,0
+2046,80,F,6,Multiple Sclerosis,Immunotherapy,5,No,0
+2047,30,F,10,Multiple Sclerosis,Physical Therapy,4,Yes,0
+2048,29,M,15,Alzheimer's,Steroid,0,No,1
+2049,29,M,20,Parkinson's,DMT,1,No,1
+2050,78,M,6,Multiple Sclerosis,Immunotherapy,3,No,1
+2051,71,M,10,Alzheimer's,Steroid,2,Yes,1
+2052,47,M,7,Multiple Sclerosis,DMT,2,Yes,1
+2053,73,M,17,Parkinson's,Biologic,0,No,0
+2054,33,F,18,Parkinson's,Anticholinesterase Inhibitors,5,Yes,0
+2055,59,M,17,Alzheimer's,Deep Brain Stimulation,0,Yes,1
+2056,44,M,9,Multiple Sclerosis,DMT,5,Yes,1
+2057,82,F,10,Multiple Sclerosis,Immunotherapy,1,No,1
+2058,73,M,10,Multiple Sclerosis,Immunotherapy,4,Yes,1
+2059,83,M,7,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,0
+2060,66,M,16,Alzheimer's,Physical Therapy,2,Yes,1
+2061,59,M,18,Parkinson's,Deep Brain Stimulation,0,No,1
+2062,74,M,6,Alzheimer's,Levodopa,3,Yes,1
+2063,42,F,20,Multiple Sclerosis,DMT,5,Yes,1
+2064,41,M,1,Multiple Sclerosis,Physical Therapy,4,No,0
+2065,48,F,1,Parkinson's,Steroid,2,Yes,0
+2066,27,F,12,Multiple Sclerosis,Levodopa,2,Yes,1
+2067,56,M,2,Alzheimer's,Deep Brain Stimulation,5,Yes,0
+2068,59,F,4,Alzheimer's,Physical Therapy,4,No,0
+2069,62,M,17,Parkinson's,Plasmapheresis,2,No,1
+2070,37,F,4,Alzheimer's,Levodopa,4,Yes,1
+2071,80,F,11,Alzheimer's,Corticosteroids,2,Yes,0
+2072,71,M,4,Alzheimer's,Corticosteroids,1,Yes,0
+2073,49,M,1,Alzheimer's,DMT,5,Yes,0
+2074,33,M,7,Multiple Sclerosis,DMT,4,Yes,0
+2075,28,M,18,Alzheimer's,DMT,3,Yes,0
+2076,38,M,9,Parkinson's,Deep Brain Stimulation,1,No,1
+2077,61,F,3,Parkinson's,Plasmapheresis,3,Yes,0
+2078,58,F,8,Alzheimer's,Physical Therapy,5,Yes,0
+2079,35,F,19,Parkinson's,Steroid,2,Yes,0
+2080,65,F,4,Alzheimer's,Biologic,3,No,0
+2081,80,F,18,Parkinson's,Immunotherapy,1,Yes,0
+2082,27,F,20,Parkinson's,Steroid,4,No,0
+2083,83,F,11,Alzheimer's,Physical Therapy,0,Yes,0
+2084,52,M,14,Alzheimer's,Plasmapheresis,3,Yes,0
+2085,53,M,18,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,1
+2086,33,F,16,Alzheimer's,Levodopa,5,Yes,1
+2087,27,F,3,Alzheimer's,Steroid,3,Yes,0
+2088,49,M,15,Multiple Sclerosis,Levodopa,3,Yes,1
+2089,58,M,4,Alzheimer's,Biologic,4,No,1
+2090,36,M,5,Alzheimer's,Physical Therapy,2,Yes,1
+2091,66,M,17,Multiple Sclerosis,Plasmapheresis,1,Yes,1
+2092,33,F,7,Alzheimer's,Physical Therapy,1,Yes,1
+2093,39,M,16,Alzheimer's,Immunotherapy,1,No,1
+2094,64,F,14,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,0
+2095,49,F,16,Multiple Sclerosis,Immunotherapy,2,No,0
+2096,29,F,7,Parkinson's,Physical Therapy,0,Yes,1
+2097,35,M,9,Alzheimer's,Immunotherapy,1,Yes,0
+2098,83,M,4,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+2099,58,F,11,Parkinson's,Physical Therapy,2,No,0
+2100,48,F,2,Multiple Sclerosis,Plasmapheresis,5,Yes,0
+2101,84,F,12,Alzheimer's,Steroid,2,No,0
+2102,39,M,12,Alzheimer's,Plasmapheresis,4,No,1
+2103,62,F,4,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,0
+2104,32,M,18,Parkinson's,Steroid,5,Yes,0
+2105,83,F,7,Multiple Sclerosis,Anticholinesterase Inhibitors,4,Yes,1
+2106,29,F,1,Alzheimer's,Steroid,1,No,1
+2107,72,F,13,Multiple Sclerosis,Plasmapheresis,2,Yes,0
+2108,50,M,6,Alzheimer's,Physical Therapy,2,Yes,1
+2109,42,M,6,Parkinson's,DMT,3,No,0
+2110,30,F,12,Alzheimer's,Corticosteroids,3,No,0
+2111,61,M,8,Parkinson's,Corticosteroids,2,Yes,1
+2112,84,F,19,Parkinson's,Anticholinesterase Inhibitors,2,No,1
+2113,72,M,5,Alzheimer's,Corticosteroids,0,No,0
+2114,37,M,18,Alzheimer's,Plasmapheresis,0,No,1
+2115,52,M,5,Parkinson's,Levodopa,4,Yes,0
+2116,29,F,10,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,1
+2117,37,M,1,Alzheimer's,Steroid,3,Yes,1
+2118,41,M,10,Parkinson's,Deep Brain Stimulation,2,No,1
+2119,74,F,5,Parkinson's,Immunotherapy,2,Yes,1
+2120,64,F,12,Multiple Sclerosis,Plasmapheresis,4,Yes,1
+2121,69,F,7,Alzheimer's,Steroid,5,No,0
+2122,56,F,9,Parkinson's,Levodopa,5,No,0
+2123,53,M,12,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,0
+2124,75,M,1,Parkinson's,Corticosteroids,3,No,1
+2125,82,M,11,Alzheimer's,Levodopa,0,Yes,0
+2126,27,M,15,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,0
+2127,80,M,2,Parkinson's,Biologic,1,Yes,1
+2128,64,F,20,Multiple Sclerosis,Biologic,4,No,1
+2129,58,M,7,Alzheimer's,Corticosteroids,5,No,1
+2130,64,M,12,Multiple Sclerosis,Biologic,1,Yes,0
+2131,51,M,18,Alzheimer's,Biologic,5,Yes,0
+2132,37,F,3,Parkinson's,Steroid,0,Yes,1
+2133,69,F,7,Alzheimer's,Steroid,0,Yes,0
+2134,57,M,11,Parkinson's,Immunotherapy,5,No,0
+2135,30,F,18,Parkinson's,Physical Therapy,1,Yes,1
+2136,48,F,12,Alzheimer's,Corticosteroids,4,Yes,0
+2137,43,F,6,Parkinson's,Biologic,1,No,1
+2138,40,F,5,Multiple Sclerosis,Immunotherapy,4,Yes,0
+2139,64,F,1,Parkinson's,Corticosteroids,5,Yes,1
+2140,52,F,12,Alzheimer's,Biologic,4,Yes,0
+2141,57,F,11,Multiple Sclerosis,Plasmapheresis,2,Yes,0
+2142,83,M,4,Multiple Sclerosis,DMT,3,Yes,1
+2143,83,M,18,Parkinson's,Plasmapheresis,3,No,1
+2144,72,F,4,Parkinson's,Deep Brain Stimulation,0,No,1
+2145,65,M,17,Alzheimer's,Corticosteroids,2,No,1
+2146,37,M,2,Multiple Sclerosis,Physical Therapy,3,No,0
+2147,67,F,2,Alzheimer's,Deep Brain Stimulation,5,Yes,1
+2148,69,M,12,Parkinson's,Immunotherapy,4,No,1
+2149,49,F,6,Multiple Sclerosis,Immunotherapy,4,No,1
+2150,77,F,10,Alzheimer's,Biologic,1,No,1
+2151,66,F,16,Alzheimer's,Deep Brain Stimulation,1,No,1
+2152,60,M,14,Alzheimer's,Biologic,4,No,0
+2153,51,M,7,Alzheimer's,Corticosteroids,5,No,1
+2154,62,M,19,Alzheimer's,Immunotherapy,4,No,1
+2155,84,M,17,Multiple Sclerosis,DMT,1,No,1
+2156,31,F,9,Alzheimer's,Immunotherapy,3,Yes,0
+2157,29,F,13,Multiple Sclerosis,Steroid,0,No,0
+2158,67,M,5,Alzheimer's,Levodopa,1,Yes,0
+2159,69,F,5,Parkinson's,Physical Therapy,5,No,1
+2160,82,F,10,Parkinson's,Deep Brain Stimulation,3,No,1
+2161,81,M,10,Alzheimer's,Biologic,3,No,0
+2162,75,F,7,Parkinson's,Levodopa,3,Yes,0
+2163,55,M,15,Multiple Sclerosis,Levodopa,2,Yes,1
+2164,47,F,7,Alzheimer's,Plasmapheresis,2,No,1
+2165,66,M,15,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,1
+2166,34,F,3,Alzheimer's,Plasmapheresis,5,No,0
+2167,56,F,19,Parkinson's,Plasmapheresis,4,Yes,1
+2168,67,M,10,Multiple Sclerosis,Physical Therapy,5,Yes,1
+2169,77,M,15,Parkinson's,Steroid,2,Yes,0
+2170,54,M,3,Parkinson's,Immunotherapy,1,No,0
+2171,63,M,6,Alzheimer's,Plasmapheresis,2,Yes,0
+2172,55,F,12,Multiple Sclerosis,Corticosteroids,4,Yes,1
+2173,42,F,15,Parkinson's,Immunotherapy,0,No,0
+2174,60,M,6,Alzheimer's,Steroid,2,Yes,0
+2175,26,F,13,Alzheimer's,Biologic,5,No,1
+2176,38,M,19,Alzheimer's,Anticholinesterase Inhibitors,5,No,1
+2177,37,M,3,Parkinson's,Immunotherapy,3,Yes,0
+2178,53,F,8,Alzheimer's,Deep Brain Stimulation,3,No,1
+2179,36,F,8,Multiple Sclerosis,Physical Therapy,3,Yes,0
+2180,63,M,20,Multiple Sclerosis,Levodopa,0,Yes,1
+2181,26,M,15,Parkinson's,Biologic,4,No,1
+2182,56,M,4,Multiple Sclerosis,Steroid,1,Yes,0
+2183,37,F,19,Alzheimer's,Plasmapheresis,5,Yes,0
+2184,70,F,3,Parkinson's,Corticosteroids,5,No,0
+2185,51,F,13,Alzheimer's,Corticosteroids,4,No,1
+2186,73,F,8,Parkinson's,Anticholinesterase Inhibitors,0,Yes,0
+2187,65,M,16,Parkinson's,Steroid,3,No,1
+2188,41,M,13,Alzheimer's,Biologic,4,No,1
+2189,64,M,3,Multiple Sclerosis,Deep Brain Stimulation,1,No,0
+2190,55,M,16,Multiple Sclerosis,Levodopa,3,No,1
+2191,58,M,9,Parkinson's,Plasmapheresis,1,Yes,1
+2192,84,M,14,Alzheimer's,Physical Therapy,2,Yes,0
+2193,48,F,13,Alzheimer's,DMT,1,No,1
+2194,69,F,7,Parkinson's,DMT,3,Yes,1
+2195,59,M,15,Multiple Sclerosis,Plasmapheresis,2,No,0
+2196,72,M,7,Alzheimer's,Biologic,3,No,0
+2197,30,F,6,Multiple Sclerosis,Plasmapheresis,5,Yes,1
+2198,43,F,2,Multiple Sclerosis,Steroid,3,Yes,1
+2199,54,F,9,Parkinson's,DMT,2,Yes,1
+2200,31,F,17,Parkinson's,Anticholinesterase Inhibitors,1,Yes,1
+2201,34,M,5,Multiple Sclerosis,Steroid,5,No,0
+2202,65,M,12,Alzheimer's,DMT,0,No,1
+2203,56,M,1,Alzheimer's,Deep Brain Stimulation,0,Yes,1
+2204,58,M,10,Parkinson's,Levodopa,0,No,1
+2205,52,M,11,Multiple Sclerosis,Corticosteroids,0,Yes,1
+2206,84,F,16,Alzheimer's,Steroid,4,Yes,0
+2207,39,M,14,Alzheimer's,Corticosteroids,0,Yes,1
+2208,54,F,8,Parkinson's,Corticosteroids,2,No,0
+2209,61,M,17,Multiple Sclerosis,DMT,0,No,0
+2210,53,M,18,Alzheimer's,Steroid,3,Yes,0
+2211,46,M,12,Parkinson's,Levodopa,0,Yes,0
+2212,28,M,17,Alzheimer's,Deep Brain Stimulation,1,Yes,0
+2213,44,M,14,Alzheimer's,Immunotherapy,2,Yes,1
+2214,56,F,16,Alzheimer's,Anticholinesterase Inhibitors,2,No,0
+2215,60,F,14,Parkinson's,Corticosteroids,5,No,0
+2216,74,F,9,Multiple Sclerosis,Levodopa,4,Yes,0
+2217,28,M,4,Parkinson's,Physical Therapy,3,Yes,1
+2218,51,M,11,Multiple Sclerosis,Physical Therapy,2,No,0
+2219,41,F,6,Alzheimer's,Immunotherapy,1,Yes,1
+2220,36,M,15,Multiple Sclerosis,Immunotherapy,0,No,0
+2221,46,M,5,Alzheimer's,Immunotherapy,2,No,0
+2222,41,F,11,Alzheimer's,Anticholinesterase Inhibitors,1,Yes,1
+2223,34,M,18,Parkinson's,Anticholinesterase Inhibitors,0,No,1
+2224,78,F,13,Alzheimer's,Deep Brain Stimulation,4,No,1
+2225,25,M,11,Parkinson's,Corticosteroids,2,No,0
+2226,46,F,14,Multiple Sclerosis,Biologic,2,No,1
+2227,50,M,18,Multiple Sclerosis,Physical Therapy,1,Yes,1
+2228,80,M,19,Alzheimer's,DMT,5,No,1
+2229,83,F,15,Parkinson's,DMT,3,No,1
+2230,42,M,9,Alzheimer's,Immunotherapy,4,No,1
+2231,74,M,8,Parkinson's,Plasmapheresis,3,Yes,0
+2232,38,F,20,Parkinson's,Physical Therapy,2,Yes,1
+2233,71,M,1,Parkinson's,Biologic,3,Yes,0
+2234,53,F,4,Multiple Sclerosis,Biologic,0,No,1
+2235,36,M,14,Parkinson's,DMT,4,Yes,1
+2236,60,M,2,Multiple Sclerosis,Plasmapheresis,3,Yes,0
+2237,83,M,16,Parkinson's,Biologic,0,Yes,0
+2238,59,M,3,Multiple Sclerosis,Physical Therapy,1,No,0
+2239,76,F,8,Multiple Sclerosis,Corticosteroids,3,Yes,0
+2240,36,M,6,Multiple Sclerosis,Levodopa,4,Yes,1
+2241,31,F,16,Alzheimer's,Plasmapheresis,0,Yes,0
+2242,53,M,16,Parkinson's,Biologic,3,No,1
+2243,35,M,7,Alzheimer's,Plasmapheresis,1,No,1
+2244,57,M,13,Parkinson's,Plasmapheresis,3,Yes,1
+2245,30,M,13,Parkinson's,Corticosteroids,0,Yes,0
+2246,71,F,5,Alzheimer's,Physical Therapy,3,Yes,0
+2247,39,F,20,Multiple Sclerosis,DMT,4,No,0
+2248,56,F,18,Parkinson's,Corticosteroids,2,No,1
+2249,75,F,15,Multiple Sclerosis,Biologic,0,Yes,0
+2250,35,M,18,Alzheimer's,Immunotherapy,0,No,0
+2251,82,F,2,Multiple Sclerosis,Corticosteroids,0,Yes,1
+2252,47,F,10,Parkinson's,Immunotherapy,0,No,0
+2253,50,M,13,Parkinson's,Steroid,3,Yes,1
+2254,58,M,18,Parkinson's,DMT,4,No,0
+2255,70,M,15,Alzheimer's,Physical Therapy,1,Yes,0
+2256,58,M,12,Parkinson's,Levodopa,4,No,0
+2257,53,F,15,Alzheimer's,Plasmapheresis,0,Yes,0
+2258,28,F,13,Multiple Sclerosis,Immunotherapy,5,Yes,0
+2259,41,M,18,Parkinson's,Levodopa,3,Yes,1
+2260,59,M,15,Parkinson's,Levodopa,5,Yes,0
+2261,37,M,11,Parkinson's,Immunotherapy,3,No,0
+2262,65,F,19,Multiple Sclerosis,Levodopa,0,Yes,0
+2263,63,F,3,Parkinson's,Plasmapheresis,3,No,0
+2264,39,M,7,Alzheimer's,Deep Brain Stimulation,0,No,0
+2265,79,M,14,Multiple Sclerosis,Steroid,4,Yes,0
+2266,53,F,14,Multiple Sclerosis,Immunotherapy,2,Yes,0
+2267,53,M,13,Multiple Sclerosis,Plasmapheresis,3,Yes,1
+2268,35,M,12,Multiple Sclerosis,DMT,0,Yes,1
+2269,76,F,9,Multiple Sclerosis,Immunotherapy,5,No,0
+2270,56,M,1,Alzheimer's,Plasmapheresis,0,No,1
+2271,26,F,19,Multiple Sclerosis,Plasmapheresis,5,No,0
+2272,71,M,11,Parkinson's,Corticosteroids,3,No,1
+2273,38,M,19,Multiple Sclerosis,Deep Brain Stimulation,1,Yes,0
+2274,44,F,18,Multiple Sclerosis,Immunotherapy,5,No,0
+2275,46,F,12,Multiple Sclerosis,Physical Therapy,0,Yes,1
+2276,35,M,1,Multiple Sclerosis,Plasmapheresis,3,Yes,0
+2277,51,F,19,Multiple Sclerosis,Steroid,0,No,1
+2278,27,M,20,Alzheimer's,Corticosteroids,1,No,0
+2279,41,M,17,Alzheimer's,Plasmapheresis,2,No,0
+2280,68,F,5,Multiple Sclerosis,Immunotherapy,1,No,0
+2281,80,M,3,Alzheimer's,Biologic,4,No,0
+2282,52,M,2,Parkinson's,Plasmapheresis,3,No,1
+2283,53,F,3,Multiple Sclerosis,Anticholinesterase Inhibitors,1,Yes,0
+2284,45,F,8,Parkinson's,Biologic,2,Yes,1
+2285,71,M,16,Parkinson's,Plasmapheresis,0,Yes,1
+2286,40,F,6,Multiple Sclerosis,Levodopa,3,No,0
+2287,61,F,13,Parkinson's,Plasmapheresis,5,Yes,0
+2288,83,F,16,Parkinson's,DMT,1,Yes,1
+2289,44,F,16,Parkinson's,Levodopa,2,Yes,1
+2290,30,M,3,Multiple Sclerosis,Immunotherapy,1,Yes,0
+2291,43,M,13,Multiple Sclerosis,Steroid,4,Yes,1
+2292,81,M,14,Parkinson's,Biologic,3,Yes,1
+2293,29,F,8,Multiple Sclerosis,Physical Therapy,0,No,1
+2294,27,F,12,Multiple Sclerosis,Corticosteroids,2,No,0
+2295,83,F,8,Parkinson's,Steroid,1,No,1
+2296,25,F,9,Multiple Sclerosis,Levodopa,3,Yes,1
+2297,82,F,1,Alzheimer's,Corticosteroids,1,No,1
+2298,84,F,6,Multiple Sclerosis,Biologic,3,No,1
+2299,62,F,19,Alzheimer's,Physical Therapy,4,Yes,0
+2300,39,M,11,Parkinson's,Anticholinesterase Inhibitors,1,No,0
+2301,58,M,11,Multiple Sclerosis,Anticholinesterase Inhibitors,4,Yes,1
+2302,59,F,13,Parkinson's,Physical Therapy,5,No,1
+2303,73,F,11,Parkinson's,Corticosteroids,5,Yes,1
+2304,49,F,18,Parkinson's,Immunotherapy,2,Yes,0
+2305,48,M,15,Parkinson's,Corticosteroids,4,No,0
+2306,36,M,1,Parkinson's,Plasmapheresis,3,Yes,1
+2307,42,F,7,Multiple Sclerosis,Corticosteroids,2,No,1
+2308,39,F,13,Alzheimer's,Immunotherapy,1,Yes,0
+2309,68,M,12,Multiple Sclerosis,Steroid,1,No,1
+2310,40,M,18,Multiple Sclerosis,Biologic,3,No,1
+2311,51,M,19,Multiple Sclerosis,Corticosteroids,0,Yes,0
+2312,32,M,15,Multiple Sclerosis,Biologic,0,No,0
+2313,84,F,8,Alzheimer's,Levodopa,1,No,0
+2314,70,M,19,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,0
+2315,49,M,10,Parkinson's,Anticholinesterase Inhibitors,0,Yes,0
+2316,41,F,7,Multiple Sclerosis,Immunotherapy,4,Yes,1
+2317,53,M,18,Multiple Sclerosis,Levodopa,1,No,0
+2318,77,M,16,Alzheimer's,Anticholinesterase Inhibitors,5,No,0
+2319,32,M,20,Alzheimer's,Immunotherapy,4,Yes,0
+2320,39,F,6,Parkinson's,Corticosteroids,3,Yes,0
+2321,51,M,9,Multiple Sclerosis,Levodopa,5,No,0
+2322,70,F,13,Multiple Sclerosis,Plasmapheresis,4,Yes,0
+2323,74,F,8,Multiple Sclerosis,Plasmapheresis,0,Yes,1
+2324,76,M,16,Parkinson's,Plasmapheresis,0,No,0
+2325,31,M,13,Alzheimer's,Steroid,5,Yes,1
+2326,27,M,13,Parkinson's,Plasmapheresis,2,Yes,1
+2327,53,M,17,Multiple Sclerosis,Levodopa,1,Yes,0
+2328,68,F,20,Alzheimer's,DMT,5,No,0
+2329,77,M,5,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,1
+2330,48,M,17,Parkinson's,Plasmapheresis,1,No,1
+2331,84,M,9,Alzheimer's,Levodopa,4,Yes,1
+2332,82,F,2,Alzheimer's,Deep Brain Stimulation,3,Yes,0
+2333,27,M,18,Multiple Sclerosis,Corticosteroids,3,No,1
+2334,44,M,9,Multiple Sclerosis,Steroid,0,No,0
+2335,70,F,6,Alzheimer's,Biologic,4,No,0
+2336,39,F,11,Alzheimer's,Immunotherapy,0,No,1
+2337,49,M,6,Parkinson's,Deep Brain Stimulation,0,Yes,0
+2338,54,M,6,Parkinson's,Deep Brain Stimulation,2,No,0
+2339,38,M,13,Alzheimer's,Steroid,0,No,1
+2340,31,M,11,Multiple Sclerosis,Immunotherapy,1,No,1
+2341,41,M,14,Alzheimer's,Steroid,3,Yes,0
+2342,68,F,2,Alzheimer's,Plasmapheresis,0,Yes,1
+2343,44,F,8,Multiple Sclerosis,Biologic,5,No,0
+2344,60,M,3,Multiple Sclerosis,Immunotherapy,1,No,1
+2345,33,M,3,Parkinson's,Levodopa,4,No,1
+2346,62,F,1,Parkinson's,Anticholinesterase Inhibitors,3,No,1
+2347,72,M,19,Parkinson's,Steroid,5,Yes,1
+2348,81,M,18,Parkinson's,Biologic,5,No,0
+2349,84,M,17,Multiple Sclerosis,Corticosteroids,4,Yes,1
+2350,46,M,20,Alzheimer's,DMT,5,No,0
+2351,78,M,13,Parkinson's,Corticosteroids,1,No,0
+2352,77,F,3,Parkinson's,DMT,4,Yes,1
+2353,77,M,1,Multiple Sclerosis,Physical Therapy,5,No,1
+2354,26,M,4,Multiple Sclerosis,Levodopa,4,No,1
+2355,48,M,13,Alzheimer's,Physical Therapy,4,No,1
+2356,32,F,17,Alzheimer's,Steroid,0,No,1
+2357,35,F,11,Multiple Sclerosis,Steroid,0,Yes,0
+2358,37,F,2,Parkinson's,DMT,0,No,1
+2359,41,F,16,Parkinson's,Immunotherapy,5,No,0
+2360,32,M,2,Parkinson's,Biologic,3,Yes,0
+2361,45,F,19,Alzheimer's,Plasmapheresis,1,No,0
+2362,42,M,19,Parkinson's,Deep Brain Stimulation,5,Yes,0
+2363,54,M,16,Parkinson's,Steroid,0,No,1
+2364,42,F,19,Multiple Sclerosis,Physical Therapy,4,No,1
+2365,70,F,9,Parkinson's,Physical Therapy,5,No,0
+2366,71,F,1,Multiple Sclerosis,Corticosteroids,4,Yes,0
+2367,55,F,10,Parkinson's,Levodopa,4,Yes,1
+2368,62,F,19,Alzheimer's,DMT,4,No,0
+2369,56,M,1,Parkinson's,Deep Brain Stimulation,2,Yes,1
+2370,35,F,2,Parkinson's,DMT,3,No,0
+2371,69,F,16,Multiple Sclerosis,Steroid,1,Yes,1
+2372,49,F,12,Multiple Sclerosis,Anticholinesterase Inhibitors,1,No,0
+2373,57,M,8,Multiple Sclerosis,Deep Brain Stimulation,0,Yes,0
+2374,84,F,18,Parkinson's,Corticosteroids,2,No,0
+2375,62,M,2,Parkinson's,Physical Therapy,5,Yes,1
+2376,65,F,13,Alzheimer's,Corticosteroids,5,Yes,1
+2377,32,F,6,Parkinson's,Steroid,1,Yes,1
+2378,35,M,6,Alzheimer's,Anticholinesterase Inhibitors,3,Yes,0
+2379,46,F,9,Multiple Sclerosis,Plasmapheresis,4,No,0
+2380,75,M,16,Multiple Sclerosis,Deep Brain Stimulation,0,No,0
+2381,48,M,11,Multiple Sclerosis,DMT,3,Yes,0
+2382,65,M,7,Alzheimer's,Deep Brain Stimulation,1,No,0
+2383,41,F,10,Parkinson's,Physical Therapy,2,Yes,0
+2384,36,F,10,Multiple Sclerosis,DMT,0,No,1
+2385,81,F,20,Parkinson's,Plasmapheresis,1,Yes,1
+2386,70,M,18,Parkinson's,Plasmapheresis,5,No,1
+2387,56,F,20,Multiple Sclerosis,Levodopa,0,No,0
+2388,39,M,9,Alzheimer's,DMT,1,Yes,1
+2389,40,F,15,Parkinson's,Biologic,5,Yes,0
+2390,78,M,4,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,0
+2391,46,M,8,Parkinson's,Biologic,4,Yes,1
+2392,52,M,9,Parkinson's,Plasmapheresis,2,Yes,0
+2393,44,F,13,Parkinson's,DMT,4,No,0
+2394,57,M,9,Parkinson's,Levodopa,1,Yes,0
+2395,34,M,4,Parkinson's,Deep Brain Stimulation,3,No,0
+2396,64,M,17,Alzheimer's,Deep Brain Stimulation,4,Yes,0
+2397,56,M,16,Alzheimer's,Deep Brain Stimulation,3,No,1
+2398,74,M,15,Multiple Sclerosis,Levodopa,5,No,1
+2399,84,M,3,Alzheimer's,Steroid,1,Yes,0
+2400,57,F,20,Alzheimer's,DMT,2,Yes,0
+2401,26,F,5,Alzheimer's,Biologic,3,No,1
+2402,57,M,5,Parkinson's,Anticholinesterase Inhibitors,1,No,1
+2403,57,F,20,Parkinson's,Plasmapheresis,3,Yes,1
+2404,65,F,15,Multiple Sclerosis,Anticholinesterase Inhibitors,4,No,0
+2405,37,M,18,Multiple Sclerosis,Plasmapheresis,1,No,1
+2406,54,M,15,Multiple Sclerosis,DMT,4,No,1
+2407,57,M,2,Parkinson's,DMT,0,No,0
+2408,37,F,13,Alzheimer's,Corticosteroids,1,No,0
+2409,76,M,4,Alzheimer's,Biologic,3,No,1
+2410,50,F,10,Parkinson's,Physical Therapy,0,Yes,0
+2411,46,M,13,Multiple Sclerosis,Plasmapheresis,4,Yes,1
+2412,63,F,10,Multiple Sclerosis,Immunotherapy,4,Yes,1
+2413,26,M,9,Multiple Sclerosis,Physical Therapy,3,Yes,0
+2414,62,M,8,Parkinson's,Deep Brain Stimulation,0,No,0
+2415,63,F,3,Multiple Sclerosis,Anticholinesterase Inhibitors,5,Yes,1
+2416,50,F,16,Multiple Sclerosis,DMT,2,No,0
+2417,70,F,14,Parkinson's,Immunotherapy,3,No,0
+2418,82,F,9,Alzheimer's,Plasmapheresis,4,Yes,0
+2419,74,F,11,Parkinson's,Steroid,1,Yes,0
+2420,39,F,3,Parkinson's,Plasmapheresis,0,No,0
+2421,58,M,5,Parkinson's,Anticholinesterase Inhibitors,5,Yes,0
+2422,66,F,10,Parkinson's,Plasmapheresis,2,Yes,0
+2423,79,M,13,Alzheimer's,Plasmapheresis,1,No,1
+2424,68,M,4,Multiple Sclerosis,Levodopa,0,No,0
+2425,73,F,13,Parkinson's,Biologic,5,No,1
+2426,64,M,12,Alzheimer's,Physical Therapy,3,No,0
+2427,35,F,5,Multiple Sclerosis,Steroid,5,No,1
+2428,27,F,10,Multiple Sclerosis,DMT,3,No,0
+2429,83,M,9,Multiple Sclerosis,Plasmapheresis,0,Yes,1
+2430,30,M,20,Parkinson's,Steroid,5,Yes,0
+2431,33,F,7,Parkinson's,Corticosteroids,2,Yes,1
+2432,30,F,2,Multiple Sclerosis,Plasmapheresis,5,No,0
+2433,33,M,7,Multiple Sclerosis,Levodopa,0,No,0
+2434,63,M,8,Multiple Sclerosis,Levodopa,1,Yes,1
+2435,55,M,7,Multiple Sclerosis,Immunotherapy,1,Yes,1
+2436,56,M,14,Multiple Sclerosis,Deep Brain Stimulation,5,Yes,0
+2437,65,F,19,Multiple Sclerosis,Anticholinesterase Inhibitors,5,No,1
+2438,74,F,5,Alzheimer's,Physical Therapy,3,Yes,1
+2439,36,F,18,Multiple Sclerosis,Corticosteroids,0,Yes,0
+2440,32,F,20,Parkinson's,Anticholinesterase Inhibitors,3,Yes,1
+2441,32,M,12,Parkinson's,Anticholinesterase Inhibitors,2,No,0
+2442,74,M,17,Parkinson's,Immunotherapy,1,Yes,1
+2443,52,F,13,Multiple Sclerosis,Levodopa,4,Yes,0
+2444,44,F,2,Parkinson's,Biologic,4,No,1
+2445,71,F,13,Alzheimer's,Steroid,0,No,0
+2446,83,F,7,Multiple Sclerosis,DMT,0,No,0
+2447,31,F,10,Parkinson's,Biologic,4,No,1
+2448,35,F,6,Alzheimer's,Biologic,0,No,1
+2449,44,F,3,Alzheimer's,Deep Brain Stimulation,1,Yes,0
+2450,40,F,3,Parkinson's,Deep Brain Stimulation,2,Yes,0
+2451,28,F,18,Alzheimer's,Biologic,2,No,1
+2452,30,M,11,Parkinson's,Levodopa,3,No,1
+2453,82,F,20,Alzheimer's,Anticholinesterase Inhibitors,1,No,1
+2454,46,M,5,Multiple Sclerosis,Steroid,0,No,1
+2455,50,M,19,Multiple Sclerosis,Anticholinesterase Inhibitors,0,Yes,1
+2456,27,F,19,Multiple Sclerosis,Anticholinesterase Inhibitors,3,Yes,1
+2457,65,F,15,Multiple Sclerosis,Anticholinesterase Inhibitors,3,No,0
+2458,84,M,16,Multiple Sclerosis,Steroid,0,No,1
+2459,66,M,9,Parkinson's,Steroid,0,No,1
+2460,38,F,4,Multiple Sclerosis,Immunotherapy,1,No,1
+2461,35,M,15,Multiple Sclerosis,Physical Therapy,3,Yes,1
+2462,42,F,12,Multiple Sclerosis,Biologic,1,No,0
+2463,78,F,3,Multiple Sclerosis,Plasmapheresis,5,No,0
+2464,36,F,14,Alzheimer's,Immunotherapy,0,Yes,0
+2465,47,M,17,Multiple Sclerosis,Immunotherapy,4,No,0
+2466,36,M,19,Multiple Sclerosis,DMT,4,Yes,1
+2467,37,F,6,Parkinson's,Plasmapheresis,5,No,0
+2468,49,M,4,Alzheimer's,Deep Brain Stimulation,0,No,1
+2469,69,M,7,Parkinson's,DMT,3,Yes,1
+2470,75,M,19,Multiple Sclerosis,Deep Brain Stimulation,4,No,0
+2471,82,M,17,Parkinson's,Physical Therapy,3,Yes,0
+2472,43,M,16,Parkinson's,Corticosteroids,4,Yes,1
+2473,79,M,15,Multiple Sclerosis,Deep Brain Stimulation,3,Yes,0
+2474,70,M,8,Alzheimer's,Anticholinesterase Inhibitors,4,No,0
+2475,60,F,19,Alzheimer's,Deep Brain Stimulation,3,No,1
+2476,69,M,8,Parkinson's,Plasmapheresis,5,Yes,1
+2477,32,M,18,Multiple Sclerosis,Steroid,1,No,1
+2478,53,M,16,Parkinson's,Plasmapheresis,3,No,1
+2479,79,M,20,Parkinson's,Physical Therapy,1,No,1
+2480,77,M,19,Parkinson's,Immunotherapy,1,Yes,0
+2481,79,M,10,Multiple Sclerosis,Anticholinesterase Inhibitors,0,Yes,1
+2482,56,M,17,Multiple Sclerosis,Corticosteroids,5,No,1
+2483,75,M,13,Alzheimer's,Physical Therapy,1,Yes,1
+2484,68,F,13,Multiple Sclerosis,Immunotherapy,2,No,0
+2485,42,M,7,Parkinson's,Levodopa,1,No,1
+2486,30,M,10,Parkinson's,Plasmapheresis,3,No,1
+2487,42,M,2,Alzheimer's,Physical Therapy,1,Yes,0
+2488,43,M,4,Multiple Sclerosis,Plasmapheresis,3,Yes,1
+2489,46,F,6,Parkinson's,Corticosteroids,3,No,1
+2490,61,F,18,Alzheimer's,Immunotherapy,2,Yes,1
+2491,56,F,6,Alzheimer's,Plasmapheresis,1,No,0
+2492,80,F,17,Parkinson's,Steroid,1,Yes,0
+2493,65,F,14,Parkinson's,Deep Brain Stimulation,4,Yes,1
+2494,83,F,11,Multiple Sclerosis,DMT,4,Yes,1
+2495,27,F,19,Alzheimer's,Corticosteroids,0,No,1
+2496,52,F,2,Parkinson's,DMT,3,No,0
+2497,34,F,3,Alzheimer's,Biologic,2,No,0
+2498,75,F,11,Multiple Sclerosis,Deep Brain Stimulation,4,Yes,0
+2499,59,F,6,Parkinson's,Corticosteroids,1,No,0
+2500,53,F,14,Multiple Sclerosis,Physical Therapy,0,No,0
